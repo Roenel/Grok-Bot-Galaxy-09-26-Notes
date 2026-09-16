@@ -29,6 +29,8 @@
 
 | 1:10:34–1:30:34 | ~12:43–1:03 | Battle Card Blair / AI Radar; Salesforce stage; Cupcake sandbox; Creative Director (Phaser) | `live-dvr` | [remainder5](notes/day2/remainder5.md) | `d2_011300_battle-card-blair-settings.png`, `d2_011500_ai-radar-settings.png`, `d2_012900_cupcake-asset-playground.png`, `d2_013034_creative-director-game-design.png` |
 
-Capture continuing from player **1:30:34**.
+| 1:30:34–1:48:34 | ~1:03–1:21 | Chef of Stuff; Phaser grids; Slack; BRB stretch; panel + Chief | `live-dvr` | [remainder6](notes/day2/remainder6.md) | `d2_013200_chef-of-stuff.png`, `d2_013600_phaser-atom-grid.png`, `d2_014200_be-right-back.png`, `d2_014834_stage-panel-final.png` |
+
+Capture continuing from player **1:48:34**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

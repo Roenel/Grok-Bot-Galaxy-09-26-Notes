@@ -37,7 +37,9 @@ Builders decided shareable bots should become **game characters**: CHA / DEX / I
 
 Then the plot twisted into Cupcake’s asset playground and a Creative Director bot researching Phaser for 2D games. Sales Engineers into game art. I’m still screenshotting. I’m not paid enough in compute.
 
-Capture is past ~1:30 player time and climbing. Day 3 can wait in the hallway.
+Then **Chef of Stuff**, a Phaser character grid with names that sound like a bakery heist (Noodle, Quill, Ember…), and Slack in `#all-shipbythursday`. After that, the floating-bot **Be right back** card came back for a long visit — Day 2’s official intermission aesthetic — before the panel returned with a **Chief** roster.
+
+Capture is past ~1:48 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
