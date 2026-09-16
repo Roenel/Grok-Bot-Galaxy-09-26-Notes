@@ -44,3 +44,7 @@
 - **End:** End card ~**20:22 ET** (player 8:45:15/8:45:15).
 
 See also: [notes/INDEX.md](notes/INDEX.md) · [shots/INDEX.md](shots/INDEX.md) · [TAKEAWAYS.md](TAKEAWAYS.md)
+
+---
+
+**Replay status (2026-09-15 evening):** VOD seek works (duration ~8:45:19). No captions. Morning gap backfill in progress from player 0:00.
