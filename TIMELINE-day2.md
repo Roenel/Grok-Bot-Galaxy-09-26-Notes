@@ -55,6 +55,8 @@
 
 | 5:07:08–5:27:55 | ~4:40–5:00 | Guest cuts → Cover Letter Writer/Critic demo (Axon/Coinbase/MathWorks/Cerebras) → 3-person panel | `live-dvr` | [remainder18](notes/day2/remainder18.md) | `d2_1724_three-person-panel.png`, `d2_1727_black-hoodie-speaker.png` |
 
-Capture continuing from player **5:27:55**.
+| 5:27:55–5:45:33 | ~5:00–5:18 | Panel → Remotion Ads / agent desk (cloud agents, 1:1 hero) → Grok logo preview | `live-dvr` | [remainder19](notes/day2/remainder19.md) | `d2_1736_agent-workspace-ui.png`, `d2_1742_remotion-running.png`, `d2_1745_grok-logo-preview.png` |
+
+Capture continuing from player **5:45:33**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

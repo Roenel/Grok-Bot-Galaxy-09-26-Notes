@@ -63,7 +63,9 @@ The lower-third eventually admits he’s from **Future Forward**, then the camer
 
 Somewhere in the guest hopscotch a Cover Letter Writer flashes Axon / Coinbase / MathWorks / Cerebras and a Cover Letter Critic — finally something readable — then it’s back to three people and houseplants.
 
-Capture is past ~5:27 player time and climbing. Day 3 can wait in the hallway.
+Then the org chart grows Remotion Ads and they actually install the plugin — Cursor cloud agents grinding a 1:1 stacked-card hero until the preview politely shows a black Grok logo like that’s the whole movie.
+
+Capture is past ~5:45 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
