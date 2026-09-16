@@ -53,7 +53,9 @@ The mock got specific (three big cards, captain picker, drag-to-reorder, “comm
 
 Cupcake Eng showed up next with the softest job description on the board (“Research, marketing, admin”) and the hardest PR gossip. Then the game UI asked everyone to **pick their captains** — “the other two are dead to you” — which is either product copy or a cry for help. Debug got promoted to a floating pill. The camera finally cut to two people laughing in the room with no lower-thirds, because nameplates remain a myth.
 
-Capture is past ~3:53 player time and climbing. Day 3 can wait in the hallway.
+Then the maturity curve returns like an old friend — Ask / Do a task / Automate an outcome / Staff a function — followed by Why Grok Bot and an email-thread screenshare with a new presenter who at least brought her own inset.
+
+Capture is past ~4:11 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

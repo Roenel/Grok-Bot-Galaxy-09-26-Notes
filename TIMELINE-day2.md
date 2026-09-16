@@ -45,6 +45,8 @@
 
 | 3:35:17–3:53:29 | ~3:08–3:26 | Cupcake Eng PR chatter → **Your team** captain picker (“other two are dead to you”) → room two-shot | `live-dvr` | [remainder13](notes/day2/remainder13.md) | `d2_0335_cupcake-eng.png`, `d2_0344_debug-your-team.png`, `d2_0353_two-speaker-room.png` |
 
-Capture continuing from player **3:53:29**.
+| 3:53:29–4:11:29 | ~3:26–3:44 | Your team captains → AI Maturity / Why Grok Bot slides → email-thread demo (new presenter) | `live-dvr` | [remainder14](notes/day2/remainder14.md) | `d2_1201_ai-maturity-curve.png`, `d2_1203_why-grok-bot.png`, `d2_1211_email-presenter.png` |
+
+Capture continuing from player **4:11:29**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
