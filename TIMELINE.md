@@ -10,10 +10,11 @@
 |--------|---------|
 | `gap` | No primary slide/screenshot capture |
 | `tldr-only` | Schedule + ChrisSimpson/host TLDR synthesis only — **not** a transcript |
-| `live` | Primary visual/slide capture from stream |
+| `live` | Primary visual/slide capture from the live stream window |
+| `replay-backfill` | Slide/demo screenshots + notes from VOD replay (player seek); **no CC / no audio transcript** |
 | `visual-only` | Live video scenes; **no** readable captions / no Q&A substance |
 
-> **GAP rule:** Everything before ~**3:08 PM ET** in NOTES is schedule + TLDR. Live slide capture starts ~3:08 PM ET.
+> **Coverage rule:** Morning → ~**3:08 PM ET** is now **`replay-backfill`** via [`notes/backfill-morning.md`](notes/backfill-morning.md) (slide-first). Live slide capture from the original session starts ~3:08 PM ET. TLDR sections in NOTES remain synthesis, not a transcript.
 
 ---
 
@@ -21,9 +22,9 @@
 
 | Time (ET) | Time (PT) | Segment | Speaker / focus | Coverage | Primary notes | Key shots (few) |
 |-----------|-----------|---------|-----------------|----------|---------------|-----------------|
-| 11:30 | 8:30 | Livestream starts | Host / cold open | `gap` | [NOTES.md](notes/NOTES.md) schedule header | — |
-| 12:00–13:00 | 9:00–10:00 | **Grok Bot 101** | Roman Ugarte + Amrita | `gap` / `tldr-only` | [NOTES.md](notes/NOTES.md) § Mindset, § Operating model | — *(pending replay backfill)* |
-| Midday (approx) | Midday | Builders / Codie / Lauren / Ship by Thursday | Matt Palmer, Lauren Tan, Roshan, Codie Sanchez, Peter Yang | `gap` / `tldr-only` | [NOTES.md](notes/NOTES.md) § Stack/harness, § Product frame, § Distribution, § Live company lock | — |
+| 11:30 | 8:30 | Livestream starts | Host / cold open | `replay-backfill` | [backfill-morning.md](notes/backfill-morning.md) | `shots/backfill/bf_0000_cold-open.png`, `bf_0010_intro.png` |
+| 12:00–13:00 | 9:00–10:00 | **Grok Bot 101** | Roman Ugarte + Amrita | `replay-backfill` | [backfill-morning.md](notes/backfill-morning.md); TLDR also in [NOTES.md](notes/NOTES.md) § Mindset / Operating model | `bf_0032_101-framework.png`, `bf_0038_why-grokbot.png`, `bf_0042_101-intake-demo.png`, `bf_0044_101-approval-demo.png`, `bf_0115_101-qr-settings.png` |
+| Midday (approx) | Midday | Builders / Codie / Lauren / Ship by Thursday | Matt Palmer, Lauren Tan, Roshan, Codie Sanchez, Peter Yang | `replay-backfill` | [backfill-morning.md](notes/backfill-morning.md); TLDR also in [NOTES.md](notes/NOTES.md) | `bf_0140_builder-panel.png`, `bf_0200_throwaway-ideas.png`, `bf_0230_lauren-stack.png`, `bf_0300_codie-controversy.png`, `bf_0310_codie-bot-ops.png` |
 | **~15:08** | **~12:08** | **Live capture begins** | — | boundary | Capture status in [NOTES.md](notes/NOTES.md) (~15:13 ET: BRB, no CC; HLS blocked) | — |
 | 15:30–17:00 *(sched.)* | 12:30–14:00 | **Engineering** | Lingxi Li — Grok Bot for Engineers | `live` *(from ~3:08; early Eng may be partial; late Eng solid)* | [NOTES.md](notes/NOTES.md) § Engineering; [eng-remainder2](notes/eng-remainder2.md)–[8](notes/eng-remainder8.md) | `eng-03-title.png`, `eng-04-maturity.png`, `01_nightly_code_cleanup.png`, `07_engineering_workflow_rules.png`, `eng_remainder2_what_we_learned.png` |
 | ~16:40–17:30 | ~13:40–14:30 | Engineering → live builders (venue-finder / Ship by Thursday) | Builders + Lingxi context; Cursor/GitHub, venue-finder PRs | `live` | [eng-remainder3](notes/eng-remainder3.md)–[7](notes/eng-remainder7.md) | `eng-remainder3_1642_cursor-github-install.png`, `2026-09-15_1649_venue-finder-poteto-mode-demo.png`, `eng-remainder7-1730-brb.png` |
@@ -36,7 +37,7 @@
 
 ### Ambiguous boundaries (honest)
 
-- **Eng vs 3:08:** Scheduled Eng is **15:30 ET**; Holmes’s slide capture starts ~**15:08 ET** (BRB noted ~15:13). Treat material before ~3:08 as gap; Eng deck/demos from first `eng-*` / numbered use-case shots onward as live. Early Eng may miss opening minutes if the talk started before continuous capture.
+- **Eng vs 3:08:** Scheduled Eng is **15:30 ET**; Holmes’s live slide capture starts ~**15:08 ET** (BRB noted ~15:13). Morning → that boundary is `replay-backfill` ([backfill-morning.md](notes/backfill-morning.md)); Eng deck/demos from first `eng-*` / numbered use-case shots onward are `live`. Early Eng may miss opening minutes if the talk started before continuous live capture.
 - **Eng → builders:** No crisp “Engineering ends” card; venue-finder / Ship-by-Thursday demos overlap late Eng remainder windows ([eng-remainder3](notes/eng-remainder3.md)+).
 - **PM start:** Clearer after BRB + “Agents as colleagues” / PM use-cases slides ([eng-remainder8](notes/eng-remainder8.md), [pm-remainder1](notes/pm-remainder1.md)). Speaker lower-thirds often missing.
 - **Founders start:** Clear cut ~**7:00–7:01 PM ET** to solo stage + Founders agenda ([founders-remainder3](notes/founders-remainder3.md)). Prior ~18:30–19:00 is still builders.
@@ -47,4 +48,4 @@ See also: [notes/INDEX.md](notes/INDEX.md) · [shots/INDEX.md](shots/INDEX.md) �
 
 ---
 
-**Replay status (2026-09-15 evening):** VOD seek works (duration ~8:45:19). No captions. Morning gap backfill in progress from player 0:00.
+**Replay status:** VOD seek works (duration ~8:45:19). No captions. Morning → ~15:08 ET backfilled as `replay-backfill` from player `00:00`–`03:38:00` — see [notes/backfill-morning.md](notes/backfill-morning.md) + `shots/backfill/bf_*.png`.

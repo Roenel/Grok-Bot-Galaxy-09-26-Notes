@@ -12,9 +12,9 @@ Humans: start at `README.md`.
 
 ## Coverage rules (non-negotiable)
 
-- **Never** treat pre–~**3:08 PM ET** TLDR material in `NOTES.md` as a primary transcript or as live slide capture.
-- Label and respect statuses: `gap` | `tldr-only` | `live` | `visual-only`.
-- **Do not invent** morning slide content or **Q&A substance** (Q&A is visual-only; no captions).
+- **Never** treat TLDR material in `NOTES.md` as a primary transcript. For morning → ~3:08 PM ET, prefer `notes/backfill-morning.md` (`replay-backfill`) over TLDR sections.
+- Label and respect statuses: `gap` | `tldr-only` | `live` | `replay-backfill` | `visual-only`.
+- **Do not invent** audio claims or **Q&A substance** (no CC on replay; Q&A is visual-only).
 - When unsure whether a claim is live vs TLDR, cite the note file and mark coverage.
 
 ## Conventions
@@ -40,9 +40,9 @@ Humans: start at `README.md`.
 
 | Gap | Detail |
 |-----|--------|
-| Morning → ~3:08 PM ET | No primary stream capture; TLDR/schedule only. Replay backfill pending. |
+| Morning → ~3:08 PM ET | Filled via **`replay-backfill`**: `notes/backfill-morning.md` + `shots/backfill/bf_*.png`. Slide-first; **still no audio transcript / no CC**. |
 | Q&A | Visual scenes only; no readable captions → no Q&A substance. |
-| Full audio transcript | HLS / signed-URL capture blocked by Auto-review; notes are visual + teachable-point synthesis, not verbatim audio. |
+| Full audio transcript | HLS / signed-URL capture blocked by Auto-review; replay also has no captions. Notes are visual + teachable-point synthesis, not verbatim audio. |
 | Speaker IDs | Lower-thirds often missing (esp. PM); don’t invent names beyond what’s on slides/OCR notes. |
 
 ## Safety

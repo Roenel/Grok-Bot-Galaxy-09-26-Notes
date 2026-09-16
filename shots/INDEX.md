@@ -2,9 +2,29 @@
 
 **Not every file.** ~180+ PNGs live in `shots/`; this lists the most useful 3–8 per segment. Open the folder for the rest.
 
-Coverage reminder: **no morning/101 primary shots** (gap until ~3:08 PM ET).
+Coverage reminder: morning/101 is **`replay-backfill`** under `shots/backfill/bf_*.png` (see section below). Live capture from ~3:08 PM ET onward remains in `shots/` root.
 
 ---
+
+## Morning / Grok Bot 101 / midday builders (`replay-backfill`)
+
+Paths are under `shots/backfill/`. Full set: 28 `bf_*.png` files (+ seek-test). Curated highlights:
+
+| File | Why |
+|------|-----|
+| `bf_0000_cold-open.png` | Stream cold open / title |
+| `bf_0032_101-framework.png` | Ask vs Do-a-task (Copilots) framing |
+| `bf_0038_why-grokbot.png` | Why Grok Bot value props |
+| `bf_0040_meet-team.png` | Data Dan / Slide Sonya / Email Ethan |
+| `bf_0042_101-intake-demo.png` | Data Dan intake choices |
+| `bf_0044_101-approval-demo.png` | Auto-review pause / Allow once |
+| `bf_0046_101-approved-run.png` | Approved run continues |
+| `bf_0115_101-qr-settings.png` | QR + routines / public link approvals |
+| `bf_0200_throwaway-ideas.png` | Community idea buckets / LiveSignal |
+| `bf_0230_lauren-stack.png` | Lauren stack / ship-small guidance |
+| `bf_0300_codie-controversy.png` | “Don’t be scared of controversy” |
+| `bf_0310_codie-bot-ops.png` | Bot-ops dashboard (roles + counts) |
+| `bf_0338_endpoint.png` | Stop boundary at player 03:38 (~15:08 ET) |
 
 ## Engineering — deck & use cases (`live`)
 

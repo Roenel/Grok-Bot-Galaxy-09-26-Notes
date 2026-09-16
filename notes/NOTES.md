@@ -1,7 +1,7 @@
 <!-- NAV BANNER: do not remove -->
 > **Nav:** Day 1 spine → [`../TIMELINE.md`](../TIMELINE.md) · takeaways → [`../TAKEAWAYS.md`](../TAKEAWAYS.md) · file map → [`INDEX.md`](INDEX.md)
 >
-> **Coverage:** Live slide/screenshot capture began ~**3:08 PM ET** (15:08). Everything above the Engineering live sections in this file that describes morning/101/Codie/Lauren is **schedule + ChrisSimpson/host TLDR** — not primary stream capture. Q&A at end is **visual-only** (no captions). Full audio transcript unavailable (HLS blocked).
+> **Coverage:** Live slide/screenshot capture began ~**3:08 PM ET** (15:08). Morning → that boundary is now **`replay-backfill`** in [`backfill-morning.md`](backfill-morning.md) (slide-first VOD notes; **no CC**). Sections below that describe morning/101/Codie/Lauren in *this* file remain **schedule + ChrisSimpson/host TLDR** — secondary to the backfill. Q&A at end is **visual-only** (no captions). Full audio transcript unavailable.
 >
 > This file is a **rolling compile** (long / append-only). Prefer TIMELINE + remainder files for navigation.
 
@@ -1059,3 +1059,7 @@ Screenshots are under `/workspace/galaxy-day1/shots/`:
 Stream ended ~8:22 PM ET on 2026-09-15 (player at 8:45:15/8:45:15). Visual+slide capture complete for Day 1. Q&A after thank-you had no readable captions.
 
 ---
+
+## Pointer: morning replay backfill
+
+Primary morning/101/midday visual notes (player `00:00`–`03:38:00`, ~11:30–15:08 ET) live in **[`backfill-morning.md`](backfill-morning.md)** with screenshots under `../shots/backfill/bf_*.png`. Status: `replay-backfill` (slide-first; no CC / no audio transcript). Prefer that file over the TLDR sections above for morning coverage.

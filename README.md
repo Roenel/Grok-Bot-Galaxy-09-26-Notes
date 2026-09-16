@@ -7,7 +7,7 @@ Research capture from [xAI Grok Bot Galaxy](https://x.ai/galaxy) · [Luma](https
 
 | Day | Date | Broadcast / status |
 |-----|------|--------------------|
-| **1** | Sept 15 | [X broadcast](https://x.com/i/broadcasts/1AxRnZbVpjaxl) — live window captured; morning gap backfilling from replay |
+| **1** | Sept 15 | [X broadcast](https://x.com/i/broadcasts/1AxRnZbVpjaxl) — live window + morning `replay-backfill` (slide-first; no CC) |
 | **2** | Sept 16 | Pending |
 | **3** | Sept 17 | Pending |
 
@@ -43,10 +43,10 @@ Anyway. The goods for Day 1 are below. Days 2–3 will show up the same way — 
 
 | Window (ET) | Approx PT | Status | What you get |
 |-------------|-----------|--------|--------------|
-| ~11:30 AM → **~3:08 PM** | ~8:30 AM → ~12:08 PM | **`gap` / `tldr-only`** → *replay backfill in progress* | Schedule + ChrisSimpson/host TLDR in `notes/NOTES.md` until backfill lands — **not** a primary transcript yet |
+| ~11:30 AM → **~3:08 PM** | ~8:30 AM → ~12:08 PM | **`replay-backfill`** | VOD replay notes + screenshots in [`notes/backfill-morning.md`](notes/backfill-morning.md) / `shots/backfill/bf_*.png` — **slide-first; no CC / no audio transcript**. TLDR in `notes/NOTES.md` remains secondary synthesis |
 | **~3:08 PM** → ~8:22 PM | ~12:08 PM → ~5:22 PM | **`live`** (Q&A = **`visual-only`**) | Slide/screenshot capture: late Engineering → builders → PM → art/wireframes → Founders demos/tips → Q&A scenes → end |
 
-Scheduled Eng starts **3:30 PM ET**; live screenshots begin ~**3:08 PM ET**, so early Eng may be partial and late Eng is solid. See [`TIMELINE.md`](TIMELINE.md). Replay seek works (~8h45m VOD, no captions).
+Scheduled Eng starts **3:30 PM ET**; live screenshots begin ~**3:08 PM ET**, so early Eng may be partial and late Eng is solid. See [`TIMELINE.md`](TIMELINE.md). Replay seek works (~8h45m VOD, no captions); morning is replay-backfilled.
 
 ## Folder layout
 

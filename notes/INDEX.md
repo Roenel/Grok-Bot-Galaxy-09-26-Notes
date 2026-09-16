@@ -1,11 +1,12 @@
 # Notes index — Day 1
 
 Map of every `notes/*.md`. Times are America/New_York (ET); PT = ET−3.  
-Coverage: `gap` / `tldr-only` / `live` / `visual-only`. Spine: [`../TIMELINE.md`](../TIMELINE.md).
+Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spine: [`../TIMELINE.md`](../TIMELINE.md).
 
 | File | Segment | Time window (approx ET) | Coverage | One-line summary |
 |------|---------|-------------------------|----------|------------------|
 | [NOTES.md](NOTES.md) | **Rolling compile** (all Day 1) | Full day; live material from ~15:08 | mixed | Append-only mega-file: schedule, TLDR takeaways, then Eng→PM→Founders→end. Prefer remainders + TIMELINE for nav; this file may be long/duplicative. |
+| [backfill-morning.md](backfill-morning.md) | Morning / 101 / builders / Codie | ~11:30–15:08 ET (player `00:00`–`03:38:00`) | `replay-backfill` | VOD replay slide-first notes: Bot 101 demos, approvals, throwaway ideas, Lauren stack, Codie ops. No CC / no audio transcript. |
 | [eng-remainder2.md](eng-remainder2.md) | Engineering | ~player 4:22–4:39 (mid-Eng) | `live` | FlyLo workflow enforcement, P0 trip-lookup, 5-min interrupt watch, fleet board, Eng “What we learned.” |
 | [eng-remainder3.md](eng-remainder3.md) | Eng → builders | ~16:41 ET | `live` | Cursor GitHub App install, Slack verification skill, founding-eng lander; still Eng/builders, no PM yet. |
 | [eng-remainder4.md](eng-remainder4.md) | Builders / Eng | ~16:32–16:44 ET (filename times) | `live` | Tater / poteto prototypes, PR10 automation admin, verification live/merged. |
@@ -27,4 +28,4 @@ Coverage: `gap` / `tldr-only` / `live` / `visual-only`. Spine: [`../TIMELINE.md`
 
 ## NOTES.md role
 
-`NOTES.md` is the **rolling compile**: early sections are schedule + ChrisSimpson/host TLDR (`tldr-only`); from Engineering onward it also inlines remainder captures. Use it for search/full context; use this index + TIMELINE for navigation.
+`NOTES.md` is the **rolling compile**: early sections are schedule + ChrisSimpson/host TLDR (`tldr-only`); morning primary visual notes are in **`backfill-morning.md`** (`replay-backfill`). From Engineering onward NOTES also inlines remainder captures. Use NOTES for search/full context; use this index + TIMELINE for navigation.
