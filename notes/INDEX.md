@@ -52,3 +52,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder20.md](day2/remainder20.md) | 5:45–6:05 | Cupcake Remotion + Shardul + deck reprise |
 | [day2/remainder21.md](day2/remainder21.md) | 6:05–6:22 | SDR Army Huddle prospecting |
 | [day2/remainder22.md](day2/remainder22.md) | 6:22–6:43 | What we learned + CUPCAKE leaderboard |
+| [day2/remainder23.md](day2/remainder23.md) | 6:43–7:04 | Cupcake eng bots + in-game ads |

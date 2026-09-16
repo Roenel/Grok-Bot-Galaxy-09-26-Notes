@@ -63,6 +63,8 @@
 
 | 6:22:57–6:43:12 | ~5:55–6:16 | Army Huddle 25/25 lock → What we learned → CUPCAKE leaderboard demo | `live-dvr` | [remainder22](notes/day2/remainder22.md) | `d2_0631_what-we-learned.png`, `d2_0643_global-leaderboard-paused.png` |
 
-Capture continuing from player **6:43:12**.
+| 6:43:12–7:04:15 | ~6:16–6:37 | Cupcake eng ops: Bake/Clerk PRs, dr eggbot, Ping/Glow/Crit/steve (in-game ads) | `live-dvr` | [remainder23](notes/day2/remainder23.md) | `d2_184821_bake-founding-engineer.png`, `d2_190221_glow-3d-prototyping.png`, `d2_190415_in-game-ads.png` |
+
+Capture continuing from player **7:04:15**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

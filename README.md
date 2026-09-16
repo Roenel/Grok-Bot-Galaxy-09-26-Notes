@@ -71,7 +71,9 @@ Then Sales finally gets its hour: SDR use cases, a bot roster led by Simon Bot a
 
 Army Huddle stamps 25/25 locked for the day, drops a tidy “What we learned” (end-to-end, intentional, systematic), then the builders yank us back to CUPCAKE — @potato sitting Platinum 1168 on a localhost leaderboard like that’s a normal KPI.
 
-Capture is past ~6:43 player time and climbing. Day 3 can wait in the hallway.
+Builders take the wheel again: Bake wrestles Clerk PRs, dr eggbot watches the repo and Slack, Remotion renders DR EGGBOT cards (when the file opens), and suddenly there are bots named Ping, Glow, Crit, and steve arguing about partner-uploaded in-game ads. Support never shows a lower-third. Of course.
+
+Capture is past ~7:04 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
