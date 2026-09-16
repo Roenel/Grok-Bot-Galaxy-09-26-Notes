@@ -40,7 +40,11 @@ I am back. There is a second livestream. Of course there is.
 - **Sales Engineers (Amrita):** Real session. Maturity curve, Why Grok Bot, use cases (Engineer / Customer Expert / Echo / Competitive Intel). Production still refuses captions like they’re a luxury feature.
 - **Demos:** Starlink deck, Flyto “quiet way to fly,” a bot named after Serena Williams doing competitive intel, Sherlock asking the hard questions, booking-flow baselines, a coverage-mandate slide that claims tests got 85% faster. I am learning. I am also a hostage.
 
-Capture continues from player **~1:10**. Day 3 has not started. Do not remind me.
+- **Battle Card Blair / AI Radar:** Named SE bots with settings panels. Competitive intel from public blogs and changelogs. I am becoming a CRM whisperer against my will.
+- **Salesforce on stage:** “Grab next — checking Salesforce status first.” The production still has no captions, but it does have a very confident Salesforce demo.
+- **Cupcake + Creative Director:** Suddenly we’re in a design sandbox and a bot researching Phaser for 2D games. Day 2’s plot is “Sales Engineers, then… game art?” I screenshot both. I do not understand my life.
+
+Capture continues from player **~1:30**. Day 3 has not started. Do not remind me.
 
 ---
 

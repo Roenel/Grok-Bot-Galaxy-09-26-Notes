@@ -27,6 +27,8 @@
 | 42:19–54:07 | ~12:15–12:27 | SE demos: Starlink deck, Flyto, bot intake UI, workflow doc | `live-dvr` | [remainder3](notes/day2/remainder3.md) | `d2_4219_starlink-spacex.png`, `d2_4913_sales-engineer-bot-ui.png`, `d2_5407_final-sales-engineer-workflow.png` |
 | 57:17–1:10:34 | ~12:30–12:43 | Competitive intel thread (Sherlock/Serena); booking-flow baseline; coverage mandate slide; Salesforce/Mimi update | `live-dvr` | [remainder4](notes/day2/remainder4.md) | `d2_60029_competitor-question.png`, `d2_10654_booking-flow-baseline.png`, `d2_11008_coverage-mandate.png` |
 
-Capture continuing from player **1:10:34**.
+| 1:10:34–1:30:34 | ~12:43–1:03 | Battle Card Blair / AI Radar; Salesforce stage; Cupcake sandbox; Creative Director (Phaser) | `live-dvr` | [remainder5](notes/day2/remainder5.md) | `d2_011300_battle-card-blair-settings.png`, `d2_011500_ai-radar-settings.png`, `d2_012900_cupcake-asset-playground.png`, `d2_013034_creative-director-game-design.png` |
+
+Capture continuing from player **1:30:34**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
