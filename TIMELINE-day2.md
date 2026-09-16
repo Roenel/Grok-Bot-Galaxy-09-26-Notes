@@ -51,6 +51,8 @@
 
 | 4:31:30–4:47:20 | ~4:04–4:20 | BRB → guest **Matthew Berman** interview (no slides) | `live-dvr` | [remainder16](notes/day2/remainder16.md) | `d2_044427_matthew_berman.png`, `d2_044534_matthew_wide.png` |
 
-Capture continuing from player **4:47:20**.
+| 4:47:20–5:07:08 | ~4:20–4:40 | Berman interview (**Future Forward**) → unnamed second speaker (hoodie/plants) | `live-dvr` | [remainder17](notes/day2/remainder17.md) | `d2_045507_matthew-berman-lowerthird.png`, `d2_050708_end-speaker-paused.png` |
+
+Capture continuing from player **5:07:08**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

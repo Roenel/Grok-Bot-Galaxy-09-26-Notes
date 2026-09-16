@@ -59,7 +59,9 @@ Next came the practical tips slide: setup, make them proactive, team dynamics �
 
 After another floating-bot intermission, the production discovers lower-thirds and introduces **Matthew Berman** for a two-person interview. Still no captions — but at least we finally know someone’s name without lip-reading.
 
-Capture is past ~4:47 player time and climbing. Day 3 can wait in the hallway.
+The lower-third eventually admits he’s from **Future Forward**, then the camera finds a second speaker in a gray hoodie among the houseplants — still unnamed, still captionless.
+
+Capture is past ~5:07 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
