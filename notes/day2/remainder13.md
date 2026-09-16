@@ -1,0 +1,12 @@
+# Day 2 remainder — player 3:35:17 onward
+
+- **3:35:17–3:35:25 (player time):** Dark Chief of Staff / Cupcake Eng workspace. Left rail visibly lists Chief of Staff, Ops, dr eggbot, Creative Director, Image Gen, Cupcake Eng, and Founding Eng. Cupcake Eng settings panel shows name “Cupcake Eng”, label “Research, marketing, admin”. Main pane shows a Founding Eng message about clearing the lane/no competing harder work, reusing closed PR #4, and a cloud agent rebasing a cursor/cupcake-lander branch into main/opening a fresh marketing-lander PR; exact branch text partly illegible at this scale. Bottom-right inset shows multiple people in a dark room.
+
+- **Speakers/sessions:** No new speaker/session label visible in this frame; multi-person inset continues.
+
+- **Audio/state:** Playback started unmuted from 3:35:17; LIVE+DVR, no CC.
+- **3:44:13 (player time):** Visual changed to a light “Your team” webpage inside a browser-like window, with the subtitle “Pick your captains. The other two are dead to you.” Left side has a debug-summary pane reading “Summary make the debug a floating pill” and “Worked for 13s”; body text includes “Making Debug a floating pill so it sits over the page and stays clear of the pinned profile bar…”. A lower note begins “Adding an import-from-marketplace control on the captain page…”. The team UI visibly includes entries “dr eggbot”, “Travis”, “Project Manager”, “Research”, and “Human Resources”; center card heading appears “RESULT AUDIT REMINDERS”; right card label appears “FLORA”. Buttons “Reset team” and “Continue” are visible. Multi-person inset remains at lower right.
+- **Speakers/sessions:** No new session title or speaker name visible in the video frame; same multi-person inset.
+- **3:52:49–3:53:29 (player time):** New camera/session cut from the inset to a full-room shot: three people seated around a table with laptops and “Grok Bot Galaxy” backdrop, then a closer two-person shot. Final paused frame shows a dark-haired man in a dark jacket on the left and a woman with glasses on the right, both smiling/laughing with laptops; no on-screen speaker names.
+- **Speakers/sessions flagged:** This is a new visible camera session/cut with multiple in-room speakers; identities are not labeled on-screen. No CC indicator was present.
+- **End state:** Paused at player **3:53:29** (about 18m12s captured from 3:35:17), still unmuted; tab left open.

@@ -43,6 +43,8 @@
 
 | 3:17:15–3:35:17 | ~2:50–3:08 | Cupcake mock notes → **Chief of Staff** roster (Ops/Creative/Image Gen/Cupcake Eng/Founding Eng); Day 2 schedule in chat | `live-dvr` | [remainder12](notes/day2/remainder12.md) | `d2_1142_game-documentation.png`, `d2_1151_chief-of-staff.png` |
 
-Capture continuing from player **3:35:17**.
+| 3:35:17–3:53:29 | ~3:08–3:26 | Cupcake Eng PR chatter → **Your team** captain picker (“other two are dead to you”) → room two-shot | `live-dvr` | [remainder13](notes/day2/remainder13.md) | `d2_0335_cupcake-eng.png`, `d2_0344_debug-your-team.png`, `d2_0353_two-speaker-room.png` |
+
+Capture continuing from player **3:53:29**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

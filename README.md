@@ -51,7 +51,9 @@ After another BRB, the Cupcake game comes back as a no-backend browser prototype
 
 The mock got specific (three big cards, captain picker, drag-to-reorder, “commit and push to main”), then the screen jumped to a **Chief of Staff** desk with Cupcake Eng, Ops, Creative Director, Image Gen, and Founding Eng lined up like a very online org chart. Chat helpfully pasted the Day 2 timetable: Sales Eng morning, Sales midday, SDRs mid-afternoon, Support late — someone had to ask if that was Pacific. It was.
 
-Capture is past ~3:35 player time and climbing. Day 3 can wait in the hallway.
+Cupcake Eng showed up next with the softest job description on the board (“Research, marketing, admin”) and the hardest PR gossip. Then the game UI asked everyone to **pick their captains** — “the other two are dead to you” — which is either product copy or a cry for help. Debug got promoted to a floating pill. The camera finally cut to two people laughing in the room with no lower-thirds, because nameplates remain a myth.
+
+Capture is past ~3:53 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
