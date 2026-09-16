@@ -41,6 +41,8 @@
 
 | 3:01:27–3:17:15 | ~2:34–2:50 | BRB → 3-person table → Cupcake browser flow prototype (login…import) + Round 1 wireframes | `live-dvr` | [remainder11](notes/day2/remainder11.md) | `d2_031324_browser-prototype-flow.png`, `d2_031715_end-cupcake-wireframes.png` |
 
-Capture continuing from player **3:17:15**.
+| 3:17:15–3:35:17 | ~2:50–3:08 | Cupcake mock notes → **Chief of Staff** roster (Ops/Creative/Image Gen/Cupcake Eng/Founding Eng); Day 2 schedule in chat | `live-dvr` | [remainder12](notes/day2/remainder12.md) | `d2_1142_game-documentation.png`, `d2_1151_chief-of-staff.png` |
+
+Capture continuing from player **3:35:17**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

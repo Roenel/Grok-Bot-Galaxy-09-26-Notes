@@ -49,7 +49,9 @@ She stayed for a conversation beat next to a laptop — still no captions, so th
 
 After another BRB, the Cupcake game comes back as a no-backend browser prototype: login, home, captain, lineup, matching, battle, result, manage, import — Round 1 ends in WIN for someone named mattbot, because of course it does.
 
-Capture is past ~3:17 player time and climbing. Day 3 can wait in the hallway.
+The mock got specific (three big cards, captain picker, drag-to-reorder, “commit and push to main”), then the screen jumped to a **Chief of Staff** desk with Cupcake Eng, Ops, Creative Director, Image Gen, and Founding Eng lined up like a very online org chart. Chat helpfully pasted the Day 2 timetable: Sales Eng morning, Sales midday, SDRs mid-afternoon, Support late — someone had to ask if that was Pacific. It was.
+
+Capture is past ~3:35 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

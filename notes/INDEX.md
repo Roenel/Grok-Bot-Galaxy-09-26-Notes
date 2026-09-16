@@ -41,3 +41,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder9.md](day2/remainder9.md) | 2:25–2:45 | Karen X. Cheng guest |
 | [day2/remainder10.md](day2/remainder10.md) | 2:45–3:01 | Karen continues / two-shot |
 | [day2/remainder11.md](day2/remainder11.md) | 3:01–3:17 | Cupcake browser flow prototype |
+| [day2/remainder12.md](day2/remainder12.md) | 3:17–3:35 | Chief of Staff workspace + schedule |
