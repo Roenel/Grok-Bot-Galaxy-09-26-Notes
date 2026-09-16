@@ -55,7 +55,9 @@ Cupcake Eng showed up next with the softest job description on the board (“Res
 
 Then the maturity curve returns like an old friend — Ask / Do a task / Automate an outcome / Staff a function — followed by Why Grok Bot and an email-thread screenshare with a new presenter who at least brought her own inset.
 
-Capture is past ~4:11 player time and climbing. Day 3 can wait in the hallway.
+Next came the practical tips slide: setup, make them proactive, team dynamics — install bots, route work to specialists, schedule the recurring stuff, let bots talk to each other. Then the stage remembered it has cameras and cut between two presenters with no captions and infinite confidence.
+
+Capture is past ~4:31 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

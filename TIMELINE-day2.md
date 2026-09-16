@@ -47,6 +47,8 @@
 
 | 3:53:29–4:11:29 | ~3:26–3:44 | Your team captains → AI Maturity / Why Grok Bot slides → email-thread demo (new presenter) | `live-dvr` | [remainder14](notes/day2/remainder14.md) | `d2_1201_ai-maturity-curve.png`, `d2_1203_why-grok-bot.png`, `d2_1211_email-presenter.png` |
 
-Capture continuing from player **4:11:29**.
+| 4:11:29–4:31:30 | ~3:44–4:04 | Setup tips / proactive / team dynamics → stage presenters | `live-dvr` | [remainder15](notes/day2/remainder15.md) | `d2_1619_setup-notes.png`, `d2_1631_blonde-speaker.png` |
+
+Capture continuing from player **4:31:30**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
