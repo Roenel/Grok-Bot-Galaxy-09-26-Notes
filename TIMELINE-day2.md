@@ -53,6 +53,8 @@
 
 | 4:47:20–5:07:08 | ~4:20–4:40 | Berman interview (**Future Forward**) → unnamed second speaker (hoodie/plants) | `live-dvr` | [remainder17](notes/day2/remainder17.md) | `d2_045507_matthew-berman-lowerthird.png`, `d2_050708_end-speaker-paused.png` |
 
-Capture continuing from player **5:07:08**.
+| 5:07:08–5:27:55 | ~4:40–5:00 | Guest cuts → Cover Letter Writer/Critic demo (Axon/Coinbase/MathWorks/Cerebras) → 3-person panel | `live-dvr` | [remainder18](notes/day2/remainder18.md) | `d2_1724_three-person-panel.png`, `d2_1727_black-hoodie-speaker.png` |
+
+Capture continuing from player **5:27:55**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

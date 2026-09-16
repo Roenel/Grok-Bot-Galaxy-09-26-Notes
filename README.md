@@ -61,7 +61,9 @@ After another floating-bot intermission, the production discovers lower-thirds a
 
 The lower-third eventually admits he’s from **Future Forward**, then the camera finds a second speaker in a gray hoodie among the houseplants — still unnamed, still captionless.
 
-Capture is past ~5:07 player time and climbing. Day 3 can wait in the hallway.
+Somewhere in the guest hopscotch a Cover Letter Writer flashes Axon / Coinbase / MathWorks / Cerebras and a Cover Letter Critic — finally something readable — then it’s back to three people and houseplants.
+
+Capture is past ~5:27 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
