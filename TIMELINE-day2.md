@@ -65,6 +65,8 @@
 
 | 6:43:12–7:04:15 | ~6:16–6:37 | Cupcake eng ops: Bake/Clerk PRs, dr eggbot, Ping/Glow/Crit/steve (in-game ads) | `live-dvr` | [remainder23](notes/day2/remainder23.md) | `d2_184821_bake-founding-engineer.png`, `d2_190221_glow-3d-prototyping.png`, `d2_190415_in-game-ads.png` |
 
-Capture continuing from player **7:04:15**.
+| 7:04:15–7:21:03 | ~6:37–6:54 | steve ads path → Cupcake Round 3 → Chief Slack → Crit mechanics SoT → MVP idle | `live-dvr` | [remainder24](notes/day2/remainder24.md) | `d2_1909_cupcake_round3.png`, `d2_1921_cupcake_mvp_idle.png` |
+
+Capture continuing from player **7:21:03**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

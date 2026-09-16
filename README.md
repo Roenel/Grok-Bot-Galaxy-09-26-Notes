@@ -73,7 +73,9 @@ Army Huddle stamps 25/25 locked for the day, drops a tidy “What we learned” 
 
 Builders take the wheel again: Bake wrestles Clerk PRs, dr eggbot watches the repo and Slack, Remotion renders DR EGGBOT cards (when the file opens), and suddenly there are bots named Ping, Glow, Crit, and steve arguing about partner-uploaded in-game ads. Support never shows a lower-third. Of course.
 
-Capture is past ~7:04 player time and climbing. Day 3 can wait in the hallway.
+They play an actual Cupcake Round 3 (@potato somehow Diamond), ping Lauren+Matt on Slack with the kanban, and Crit opens a “mechanics SoT” Notion page while steve keeps rewriting the ads memo. Support remains a rumor. The stream does not.
+
+Capture is past ~7:21 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
