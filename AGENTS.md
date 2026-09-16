@@ -48,3 +48,10 @@ Humans: start at `README.md`.
 ## Safety
 
 Public repo: never commit secrets, tokens, `.env`, private keys, or internal IPs. See README safety blurb.
+
+## Day 2
+
+- Broadcast: https://x.com/i/broadcasts/1PKqrNyvmYwGb
+- Always capture from player **0:00**, not live join.
+- Notes: `notes/day2/remainder*.md` · Shots: `shots/day2/` · Spine: `TIMELINE-day2.md`
+- No CC — slide/UI-first; do not invent spoken Q&A.

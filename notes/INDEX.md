@@ -29,3 +29,12 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 ## NOTES.md role
 
 `NOTES.md` is the **rolling compile**: early sections are schedule + ChrisSimpson/host TLDR (`tldr-only`); morning primary visual notes are in **`backfill-morning.md`** (`replay-backfill`). From Engineering onward NOTES also inlines remainder captures. Use NOTES for search/full context; use this index + TIMELINE for navigation.
+
+## Day 2 (Sept 16)
+
+| File | Window | Summary |
+|------|--------|----------|
+| [day2/remainder1.md](day2/remainder1.md) | player 00:00–20:00 | Cold open, templates→game characters |
+| [day2/remainder2.md](day2/remainder2.md) | 20:00–38:44 | Product needs; Sales Engineers Amrita start |
+| [day2/remainder3.md](day2/remainder3.md) | 38:44–54:07 | SE demos: Starlink, Flyto, bot UI, workflow |
+| [day2/remainder4.md](day2/remainder4.md) | 54:07–1:10:34 | Competitive intel, booking baseline, coverage mandate |

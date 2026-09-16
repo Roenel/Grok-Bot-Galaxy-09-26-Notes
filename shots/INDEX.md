@@ -104,3 +104,7 @@ Paths are under `shots/backfill/`. Full set: 28 `bf_*.png` files (+ seek-test). 
 | `2026-09-15T2022ET-stream-end-card.png` | Stream end card |
 
 Many additional eng/pm/founders frames exist (crops, duplicates, mid-demo status). Prefer this list unless you need a specific remainder filename from a note file.
+
+## Day 2 curated
+
+See `shots/day2/`. Highlights: `d2_0000_cold-open.png`, `d2_1500_templates-slide.png`, `d2_2000_game-diagram-scoring.png`, `d2_3036_sales-engineers-speaker.png`, `d2_3822_sales-engineer-use-cases.png`, `d2_4913_sales-engineer-bot-ui.png`, `d2_11008_coverage-mandate.png`.
