@@ -35,6 +35,8 @@
 
 | 2:07:26–2:25:31 | ~1:40–1:58 | Cupcake loop pool/FIGHT UI restyle; overhead room cutaway | `live-dvr` | [remainder8](notes/day2/remainder8.md) | `d2_020938_pool.png`, `d2_021623_cupcake.png`, `d2_022531_final.png` |
 
-Capture continuing from player **2:25:31**.
+| 2:25:31–2:45:31 | ~1:58–2:18 | BRB → guest **Karen X. Cheng** (Grok Bot + Cursor visual use cases) | `live-dvr` | [remainder9](notes/day2/remainder9.md) | `d2_1612_karen-x-cheng.png`, `d2_1617_end_karen-x-cheng.png` |
+
+Capture continuing from player **2:45:31**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

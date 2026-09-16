@@ -43,7 +43,9 @@ Then the game got real: restated docs, **/potato-mode** throwaways, four design 
 
 The loop kept iterating: pool cards like Cycle Clerk and Frost Marshal, a ROUND 1 / FIGHT screen, and a mid-stream restyle for chunky buttons while someone muttered about pausing holo work to fix images. At one point the feed cut to an overhead room camera for reasons known only to production.
 
-Capture is past ~2:25 player time and climbing. Day 3 can wait in the hallway.
+Then another floating-bot intermission, and guest **Karen X. Cheng** — creative technology filmmaker, millions of followers — showing unexpected visual use cases with Grok Bot + Cursor while holding a printed page like a prop from a different movie than the Cupcake TCG we just watched.
+
+Capture is past ~2:45 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
