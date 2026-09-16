@@ -41,7 +41,9 @@ Then **Chef of Stuff**, a Phaser character grid with names that sound like a bak
 
 Then the game got real: restated docs, **/potato-mode** throwaways, four design candidates racing in scratch files, and a playable **Cupcake loop** board with lanes like Outbound Prospecting and dr.gbot — plus the eternal demo ritual of “this input doesn’t slide correctly, pls fix.”
 
-Capture is past ~2:07 player time and climbing. Day 3 can wait in the hallway.
+The loop kept iterating: pool cards like Cycle Clerk and Frost Marshal, a ROUND 1 / FIGHT screen, and a mid-stream restyle for chunky buttons while someone muttered about pausing holo work to fix images. At one point the feed cut to an overhead room camera for reasons known only to production.
+
+Capture is past ~2:25 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

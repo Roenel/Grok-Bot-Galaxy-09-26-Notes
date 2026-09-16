@@ -33,6 +33,8 @@
 
 | 1:48:34–2:07:26 | ~1:21–1:40 | Cupcake game docs → potato-mode prototypes → Cupcake loop board/scoreboard | `live-dvr` | [remainder7](notes/day2/remainder7.md) | `d2_015547_design-candidates.png`, `d2_020257_cupcake-loop-board.png`, `d2_020726_cupcake-loop-scoreboard.png` |
 
-Capture continuing from player **2:07:26**.
+| 2:07:26–2:25:31 | ~1:40–1:58 | Cupcake loop pool/FIGHT UI restyle; overhead room cutaway | `live-dvr` | [remainder8](notes/day2/remainder8.md) | `d2_020938_pool.png`, `d2_021623_cupcake.png`, `d2_022531_final.png` |
+
+Capture continuing from player **2:25:31**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
