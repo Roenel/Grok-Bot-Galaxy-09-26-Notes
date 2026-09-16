@@ -37,6 +37,8 @@
 
 | 2:25:31–2:45:31 | ~1:58–2:18 | BRB → guest **Karen X. Cheng** (Grok Bot + Cursor visual use cases) | `live-dvr` | [remainder9](notes/day2/remainder9.md) | `d2_1612_karen-x-cheng.png`, `d2_1617_end_karen-x-cheng.png` |
 
-Capture continuing from player **2:45:31**.
+| 2:45:31–3:01:27 | ~2:18–2:34 | Karen X. Cheng continues (slide + two-shot with laptop) | `live-dvr` | [remainder10](notes/day2/remainder10.md) | `d2_0250_karen-slide.png`, `d2_0301_karen-conversation.png` |
+
+Capture continuing from player **3:01:27**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

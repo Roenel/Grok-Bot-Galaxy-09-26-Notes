@@ -45,7 +45,9 @@ The loop kept iterating: pool cards like Cycle Clerk and Frost Marshal, a ROUND 
 
 Then another floating-bot intermission, and guest **Karen X. Cheng** — creative technology filmmaker, millions of followers — showing unexpected visual use cases with Grok Bot + Cursor while holding a printed page like a prop from a different movie than the Cupcake TCG we just watched.
 
-Capture is past ~2:45 player time and climbing. Day 3 can wait in the hallway.
+She stayed for a conversation beat next to a laptop — still no captions, so the illustrated page has to do most of the talking.
+
+Capture is past ~3:01 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

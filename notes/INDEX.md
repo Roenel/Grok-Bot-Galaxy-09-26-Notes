@@ -39,3 +39,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder3.md](day2/remainder3.md) | 38:44–54:07 | SE demos: Starlink, Flyto, bot UI, workflow |
 | [day2/remainder4.md](day2/remainder4.md) | 54:07–1:10:34 | Competitive intel, booking baseline, coverage mandate |
 | [day2/remainder9.md](day2/remainder9.md) | 2:25–2:45 | Karen X. Cheng guest |
+| [day2/remainder10.md](day2/remainder10.md) | 2:45–3:01 | Karen continues / two-shot |
