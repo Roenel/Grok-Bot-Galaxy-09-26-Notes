@@ -69,7 +69,9 @@ Remotion then actually builds the Cupcake motion ad — seed-42 showcase bots, a
 
 Then Sales finally gets its hour: SDR use cases, a bot roster led by Simon Bot and Shakespeare, and an Army Huddle that somehow produces 25 Director+ FlyLo prospects with draft-only Gmail and a 170-row “please review, do not send” queue. Cold outreach, but make it a committee.
 
-Capture is past ~6:22 player time and climbing. Day 3 can wait in the hallway.
+Army Huddle stamps 25/25 locked for the day, drops a tidy “What we learned” (end-to-end, intentional, systematic), then the builders yank us back to CUPCAKE — @potato sitting Platinum 1168 on a localhost leaderboard like that’s a normal KPI.
+
+Capture is past ~6:43 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

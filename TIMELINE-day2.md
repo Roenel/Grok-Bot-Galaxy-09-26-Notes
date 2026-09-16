@@ -61,6 +61,8 @@
 
 | 6:05:33–6:22:57 | ~5:38–5:55 | **SDR** session: use cases → Meet the team → Army Huddle FlyLo prospecting (25 leads, draft-only) | `live-dvr` | [remainder21](notes/day2/remainder21.md) | `d2_0606_sdr-use-cases.png`, `d2_0611_meet-the-team.png`, `d2_0616_army-huddle-prospecting.png` |
 
-Capture continuing from player **6:22:57**.
+| 6:22:57–6:43:12 | ~5:55–6:16 | Army Huddle 25/25 lock → What we learned → CUPCAKE leaderboard demo | `live-dvr` | [remainder22](notes/day2/remainder22.md) | `d2_0631_what-we-learned.png`, `d2_0643_global-leaderboard-paused.png` |
+
+Capture continuing from player **6:43:12**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
