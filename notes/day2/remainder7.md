@@ -1,0 +1,15 @@
+# Day 2 remainder 7
+
+Range: player 1:48:34–2:07:26 (approx. 1:21:34–1:40:26 PM ET; 00:00 ≈ 11:33 AM ET). Notes describe visible on-screen material only; no CC visible. Paused at end, unmuted.
+
+- **1:48:34 / ~1:21:34 PM ET — starting visual:** Three-person table shot against the Grok Bot Galaxy backdrop; the dark in-video card at right shows an orange icon and **“Chief”**, with **Arena** and **Pixel** rows beneath. Shot: `shots/d2_014834_stage-panel-final.png`.
+- **1:50:55–1:51:02 — game documentation summary:** Browser workspace with a visible prompt, **“can you read the docs and restate in your own words what the game is?”** The page shows a project titled **Game documentation…** and a small video preview at lower right. Shot: `shots/d2_015102_game-docs.png`.
+- **1:53:21–1:53:25 — prototype planning notes:** The visible document lists prototype instructions including skipping sign-in for now, using **/potato-mode**, and delivering several local prototypes; lower text says the prototype will decide things and compares presentation for line-up/battle results. Shot: `shots/d2_015325_game-prototype-notes.png`.
+- **1:55:44–1:55:47 — design candidates:** Visible checklist shows **Sketch prototype architecture A**, **B**, **C**, and **D**, with model labels including Claude, GPT, Grok, and Composer; lower text begins **“Four design candidates are running in separate scratch…”** Shot: `shots/d2_015547_design-candidates.png`.
+- **1:58:05 — candidate 3:** Browser preview headed **“Cupcake throwaway prototype — candidate 3.”** Visible text describes one local scratch file, no sign-in/database/network/framework/dependencies/tests, and vanilla HTML/CSS/JavaScript; it says the package is design only. Shot: `shots/d2_015805_cupcake-prototype-candidate3.png`.
+- **2:00:27–2:00:31 — open questions and risks:** Split workspace with a visible **“Open questions and risks”** panel. Bullets discuss variant B retaining a one-open-information board, shared/synchronized state, card styling, scoring rules, and operator interaction. Shot: `shots/d2_020031_open-questions-risks.png`.
+- **2:02:50–2:02:57 — Cupcake loop board:** Light browser game UI labeled **Cupcake loop** with tabs/buttons including **Lanes**, **Board**, and **C Ledger**; **Your lanes** cards include **Outbound Prospecting**, **dr.gbot**, and **Overhead**, alongside **Opponent** cards and stat columns. Shot: `shots/d2_020257_cupcake-loop-board.png`.
+- **2:05:18–2:05:27 — input fix:** Visible prompt says **“input this input is weird and doesn't slide correctly, pls fix”** beside the Cupcake loop UI, which shows lane cards and controls. Shot: `shots/d2_020527_cupcake-loop-input-fix.png`.
+- **2:07:26 / ~1:40:26 PM ET — last visual:** Paused Cupcake loop browser view with a scoreboard/table and multiple rows; the three-person stage video remains in the lower-right picture-in-picture. The prompt **“input this input is weird and doesn't slide correctly, pls fix”** is still visible. Shot: `shots/d2_020726_cupcake-loop-scoreboard.png`.
+
+Playback is paused at player **2:07:26**, unmuted, with the X tab left open. Captures cover **18:52** of player time from 1:48:34.

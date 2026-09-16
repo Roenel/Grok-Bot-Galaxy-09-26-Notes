@@ -31,6 +31,8 @@
 
 | 1:30:34–1:48:34 | ~1:03–1:21 | Chef of Stuff; Phaser grids; Slack; BRB stretch; panel + Chief | `live-dvr` | [remainder6](notes/day2/remainder6.md) | `d2_013200_chef-of-stuff.png`, `d2_013600_phaser-atom-grid.png`, `d2_014200_be-right-back.png`, `d2_014834_stage-panel-final.png` |
 
-Capture continuing from player **1:48:34**.
+| 1:48:34–2:07:26 | ~1:21–1:40 | Cupcake game docs → potato-mode prototypes → Cupcake loop board/scoreboard | `live-dvr` | [remainder7](notes/day2/remainder7.md) | `d2_015547_design-candidates.png`, `d2_020257_cupcake-loop-board.png`, `d2_020726_cupcake-loop-scoreboard.png` |
+
+Capture continuing from player **2:07:26**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
