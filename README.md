@@ -65,7 +65,9 @@ Somewhere in the guest hopscotch a Cover Letter Writer flashes Axon / Coinbase /
 
 Then the org chart grows Remotion Ads and they actually install the plugin — Cursor cloud agents grinding a 1:1 stacked-card hero until the preview politely shows a black Grok logo like that’s the whole movie.
 
-Capture is past ~5:45 player time and climbing. Day 3 can wait in the hallway.
+Remotion then actually builds the Cupcake motion ad — seed-42 showcase bots, accidental Tailwind, localhost:3000 refusing to connect, then a tidy three-card fan. Guest card flash for Shardul Marathe (Stanford / SAIL / SpaceX campus ambassador energy), a rocket with a QR code, and the product slides return like the encore nobody asked for.
+
+Capture is past ~6:05 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

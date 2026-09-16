@@ -49,3 +49,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder17.md](day2/remainder17.md) | 4:47–5:07 | Berman Future Forward + second speaker |
 | [day2/remainder18.md](day2/remainder18.md) | 5:07–5:27 | Cover Letter Writer demo + panel |
 | [day2/remainder19.md](day2/remainder19.md) | 5:27–5:45 | Remotion Ads + cloud agents |
+| [day2/remainder20.md](day2/remainder20.md) | 5:45–6:05 | Cupcake Remotion + Shardul + deck reprise |

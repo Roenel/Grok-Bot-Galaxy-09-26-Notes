@@ -57,6 +57,8 @@
 
 | 5:27:55–5:45:33 | ~5:00–5:18 | Panel → Remotion Ads / agent desk (cloud agents, 1:1 hero) → Grok logo preview | `live-dvr` | [remainder19](notes/day2/remainder19.md) | `d2_1736_agent-workspace-ui.png`, `d2_1742_remotion-running.png`, `d2_1745_grok-logo-preview.png` |
 
-Capture continuing from player **5:45:33**.
+| 5:45:33–6:05:33 | ~5:18–5:38 | Cupcake Remotion ads build → Shardul Marathe → rocket/QR → product deck reprise | `live-dvr` | [remainder20](notes/day2/remainder20.md) | `d2_0555_cupcake-three-card-fan.png`, `d2_0557_shardul-marathe-profile.png`, `d2_0605_why-grok-bot-end.png` |
+
+Capture continuing from player **6:05:33**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
