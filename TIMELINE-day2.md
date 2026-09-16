@@ -39,6 +39,8 @@
 
 | 2:45:31–3:01:27 | ~2:18–2:34 | Karen X. Cheng continues (slide + two-shot with laptop) | `live-dvr` | [remainder10](notes/day2/remainder10.md) | `d2_0250_karen-slide.png`, `d2_0301_karen-conversation.png` |
 
-Capture continuing from player **3:01:27**.
+| 3:01:27–3:17:15 | ~2:34–2:50 | BRB → 3-person table → Cupcake browser flow prototype (login…import) + Round 1 wireframes | `live-dvr` | [remainder11](notes/day2/remainder11.md) | `d2_031324_browser-prototype-flow.png`, `d2_031715_end-cupcake-wireframes.png` |
+
+Capture continuing from player **3:17:15**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

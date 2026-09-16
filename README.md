@@ -47,7 +47,9 @@ Then another floating-bot intermission, and guest **Karen X. Cheng** — creativ
 
 She stayed for a conversation beat next to a laptop — still no captions, so the illustrated page has to do most of the talking.
 
-Capture is past ~3:01 player time and climbing. Day 3 can wait in the hallway.
+After another BRB, the Cupcake game comes back as a no-backend browser prototype: login, home, captain, lineup, matching, battle, result, manage, import — Round 1 ends in WIN for someone named mattbot, because of course it does.
+
+Capture is past ~3:17 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

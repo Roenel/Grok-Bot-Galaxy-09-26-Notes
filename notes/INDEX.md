@@ -40,3 +40,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder4.md](day2/remainder4.md) | 54:07–1:10:34 | Competitive intel, booking baseline, coverage mandate |
 | [day2/remainder9.md](day2/remainder9.md) | 2:25–2:45 | Karen X. Cheng guest |
 | [day2/remainder10.md](day2/remainder10.md) | 2:45–3:01 | Karen continues / two-shot |
+| [day2/remainder11.md](day2/remainder11.md) | 3:01–3:17 | Cupcake browser flow prototype |
