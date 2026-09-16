@@ -67,6 +67,8 @@
 
 | 7:04:15–7:21:03 | ~6:37–6:54 | steve ads path → Cupcake Round 3 → Chief Slack → Crit mechanics SoT → MVP idle | `live-dvr` | [remainder24](notes/day2/remainder24.md) | `d2_1909_cupcake_round3.png`, `d2_1921_cupcake_mvp_idle.png` |
 
-Capture continuing from player **7:21:03**.
+| 7:21:03–7:39:51 | ~6:54–7:12 | **Customer Support** session: use cases + Meet the team; free Grok Bot/dr eggbot promo | `live-dvr` | [remainder25](notes/day2/remainder25.md) | `d2_1930_free-grok-bot.png`, `d2_1939_meet-the-team.png` |
+
+Capture continuing from player **7:39:51**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
