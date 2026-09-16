@@ -49,6 +49,8 @@
 
 | 4:11:29–4:31:30 | ~3:44–4:04 | Setup tips / proactive / team dynamics → stage presenters | `live-dvr` | [remainder15](notes/day2/remainder15.md) | `d2_1619_setup-notes.png`, `d2_1631_blonde-speaker.png` |
 
-Capture continuing from player **4:31:30**.
+| 4:31:30–4:47:20 | ~4:04–4:20 | BRB → guest **Matthew Berman** interview (no slides) | `live-dvr` | [remainder16](notes/day2/remainder16.md) | `d2_044427_matthew_berman.png`, `d2_044534_matthew_wide.png` |
+
+Capture continuing from player **4:47:20**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

@@ -57,7 +57,9 @@ Then the maturity curve returns like an old friend — Ask / Do a task / Automat
 
 Next came the practical tips slide: setup, make them proactive, team dynamics — install bots, route work to specialists, schedule the recurring stuff, let bots talk to each other. Then the stage remembered it has cameras and cut between two presenters with no captions and infinite confidence.
 
-Capture is past ~4:31 player time and climbing. Day 3 can wait in the hallway.
+After another floating-bot intermission, the production discovers lower-thirds and introduces **Matthew Berman** for a two-person interview. Still no captions — but at least we finally know someone’s name without lip-reading.
+
+Capture is past ~4:47 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

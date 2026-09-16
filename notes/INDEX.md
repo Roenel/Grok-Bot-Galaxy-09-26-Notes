@@ -45,3 +45,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder13.md](day2/remainder13.md) | 3:35–3:53 | Your team picker + room cut |
 | [day2/remainder14.md](day2/remainder14.md) | 3:53–4:11 | Maturity curve + email demo |
 | [day2/remainder15.md](day2/remainder15.md) | 4:11–4:31 | Setup tips + stage presenters |
+| [day2/remainder16.md](day2/remainder16.md) | 4:31–4:47 | Matthew Berman interview |
