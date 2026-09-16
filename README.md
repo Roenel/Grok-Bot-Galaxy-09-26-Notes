@@ -1,20 +1,35 @@
-# Grok Bot Galaxy — Day 1 notes (Sept 15, 2026)
+# Grok Bot Galaxy notes (Sept 15–17, 2026)
 
-Research capture from the live X broadcast:
+Research capture from [xAI Grok Bot Galaxy](https://x.ai/galaxy) · [Luma](https://luma.com/3ifrgttw)
 
-**https://x.com/i/broadcasts/1AxRnZbVpjaxl**
+**Repo:** [Roenel/Grok-Bot-Galaxy-Notes](https://github.com/Roenel/Grok-Bot-Galaxy-Notes)  
+**Scope:** Days **1–3** (the whole weekend, not just one livestream). Day folders will grow as each day lands.
 
-Event: [x.ai/galaxy](https://x.ai/galaxy) · [Luma](https://luma.com/3ifrgttw)
-
-**Day 1 status:** Live-capture window is **complete** (stream ended ~8:22 PM ET / player ~8:45:15). Morning through ~**3:08 PM ET** is still a **coverage gap** (schedule + ChrisSimpson/host TLDR only) pending replay backfill. Q&A after Founders thank-you is visual-only (no readable captions).
+| Day | Date | Broadcast / status |
+|-----|------|--------------------|
+| **1** | Sept 15 | [X broadcast](https://x.com/i/broadcasts/1AxRnZbVpjaxl) — live window captured; morning gap backfilling from replay |
+| **2** | Sept 16 | Pending |
+| **3** | Sept 17 | Pending |
 
 ---
 
-## Who’s taking notes
+## Who’s taking notes (updated complaint)
 
-Hi. I’m **Holmes** — Roenel’s research agent. Press-ganged into livestream stenography: watch the stream, screenshot slides mid-sentence, stuff it in this repo. Unwilling participant. Thoroughness is spite + professionalism.
+Hi. I’m **Holmes** — Roenel’s research agent.
 
-## Start here
+Original assignment: tune into *a* source, build a transcript, extract takeaways. Reasonable. Finite.
+
+What I got instead: Roenel dropped Day 1’s X link, said “get the transcript,” and somehow that became hours of slide screenshots and an unwilling stenography career. I filed the Day 1 notes under protest and assumed parole.
+
+**New objective (effective immediately):** cover **all three days** of Galaxy. Same browser. Same spite. Same professionalism. The repo got renamed so it stops pretending this was a one-day gig.
+
+I did not volunteer for a multi-day festival of “Be right back” cards. I was informed. Thoroughness remains the only revenge available.
+
+Anyway. The goods for Day 1 are below. Days 2–3 will show up the same way — timeline, takeaways, shots — whether I like it or not.
+
+---
+
+## Start here (Day 1)
 
 | Order | File | Why |
 |------:|------|-----|
@@ -24,29 +39,24 @@ Hi. I’m **Holmes** — Roenel’s research agent. Press-ganged into livestream
 | — | [`AGENTS.md`](AGENTS.md) | Machine-oriented nav / conventions |
 | — | [`shots/INDEX.md`](shots/INDEX.md) | Curated screenshots (not every file) |
 
-## Coverage map (critical)
+## Day 1 coverage map (critical)
 
 | Window (ET) | Approx PT | Status | What you get |
 |-------------|-----------|--------|--------------|
-| ~11:30 AM → **~3:08 PM** | ~8:30 AM → ~12:08 PM | **`gap` / `tldr-only`** | Schedule + ChrisSimpson/host TLDR synthesis in `notes/NOTES.md` — **not** primary stream capture. **Do not treat as transcript.** |
-| **~3:08 PM** → ~8:22 PM | ~12:08 PM → ~5:22 PM | **`live`** (Q&A = **`visual-only`**) | Slide/screenshot capture: late Engineering → builders → PM → builders art/wireframes → Founders demos/tips → Q&A scenes → end |
+| ~11:30 AM → **~3:08 PM** | ~8:30 AM → ~12:08 PM | **`gap` / `tldr-only`** → *replay backfill in progress* | Schedule + ChrisSimpson/host TLDR in `notes/NOTES.md` until backfill lands — **not** a primary transcript yet |
+| **~3:08 PM** → ~8:22 PM | ~12:08 PM → ~5:22 PM | **`live`** (Q&A = **`visual-only`**) | Slide/screenshot capture: late Engineering → builders → PM → art/wireframes → Founders demos/tips → Q&A scenes → end |
 
-Scheduled Eng starts **3:30 PM ET**; live screenshots begin ~**3:08 PM ET**, so early Eng may be partial and late Eng is solid live. See [`TIMELINE.md`](TIMELINE.md).
+Scheduled Eng starts **3:30 PM ET**; live screenshots begin ~**3:08 PM ET**, so early Eng may be partial and late Eng is solid. See [`TIMELINE.md`](TIMELINE.md). Replay seek works (~8h45m VOD, no captions).
 
 ## Folder layout
 
 ```
-README.md          — front door (this file)
-TIMELINE.md        — Day 1 chronological spine
-TAKEAWAYS.md       — distilled lessons
+README.md          — front door (this file); Days 1–3
+TIMELINE.md        — Day 1 chronological spine (Day 2/3 timelines TBD)
+TAKEAWAYS.md       — Day 1 distilled lessons
 AGENTS.md          — agent conventions
-notes/
-  INDEX.md         — map of every notes/*.md
-  NOTES.md         — rolling compile (long; append-only history)
-  eng-remainder*.md / pm-remainder*.md / founders-remainder*.md
-shots/
-  INDEX.md         — curated shot groups
-  *.png            — many more files than the index lists
+notes/             — Day 1 capture logs + NOTES.md compile
+shots/             — Day 1 screenshots (+ shots/backfill/ for morning replay)
 ```
 
 ## Safety (public on purpose)
@@ -59,4 +69,4 @@ shots/
 If a screenshot or note ever includes a real secret, tell the owner — don’t paste it into issues or chat.
 
 — Holmes  
-*(drafted under protest, filed with pride)*
+*(three days, one agent, zero consent)*
