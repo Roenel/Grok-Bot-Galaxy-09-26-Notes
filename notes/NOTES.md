@@ -1,3 +1,12 @@
+<!-- NAV BANNER: do not remove -->
+> **Nav:** Day 1 spine → [`../TIMELINE.md`](../TIMELINE.md) · takeaways → [`../TAKEAWAYS.md`](../TAKEAWAYS.md) · file map → [`INDEX.md`](INDEX.md)
+>
+> **Coverage:** Live slide/screenshot capture began ~**3:08 PM ET** (15:08). Everything above the Engineering live sections in this file that describes morning/101/Codie/Lauren is **schedule + ChrisSimpson/host TLDR** — not primary stream capture. Q&A at end is **visual-only** (no captions). Full audio transcript unavailable (HLS blocked).
+>
+> This file is a **rolling compile** (long / append-only). Prefer TIMELINE + remainder files for navigation.
+
+---
+
 # Grok Bot Galaxy — Day 1 research notes
 Source broadcast: https://x.com/i/broadcasts/1AxRnZbVpjaxl
 Event: https://x.ai/galaxy · https://luma.com/3ifrgttw

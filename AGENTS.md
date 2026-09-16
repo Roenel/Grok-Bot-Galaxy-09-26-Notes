@@ -1,0 +1,50 @@
+# AGENTS.md — machine nav for this repo
+
+## Read order
+
+1. `TIMELINE.md` — coverage + time spine  
+2. `TAKEAWAYS.md` — distilled lessons (check citations)  
+3. `notes/INDEX.md` → relevant `notes/*.md`  
+4. `shots/INDEX.md` → open specific PNGs under `shots/`  
+5. `notes/NOTES.md` only when you need the full rolling compile
+
+Humans: start at `README.md`.
+
+## Coverage rules (non-negotiable)
+
+- **Never** treat pre–~**3:08 PM ET** TLDR material in `NOTES.md` as a primary transcript or as live slide capture.
+- Label and respect statuses: `gap` | `tldr-only` | `live` | `visual-only`.
+- **Do not invent** morning slide content or **Q&A substance** (Q&A is visual-only; no captions).
+- When unsure whether a claim is live vs TLDR, cite the note file and mark coverage.
+
+## Conventions
+
+| Topic | Rule |
+|-------|------|
+| Times | Prefer **ET**; PT = ET−3. Filenames often embed ET (`…_1901_…`, `…T2022ET-…`) or PT (`…-1710pt-…`). |
+| `NOTES.md` | Rolling compile — long, append-only history; may duplicate remainder content. Banner points to TIMELINE. |
+| Remainders | `eng-remainderN.md`, `pm-remainderN.md`, `founders-remainderN.md` — chronological capture windows after the main NOTES sections. Prefer **keeping filenames**; update indexes if renaming. |
+| Shots | Many more files than `shots/INDEX.md` lists. Prefer curated index; don’t mass-rename shot files. |
+| Persona | README keeps light Holmes “unwilling stenographer” tone — preserve when editing. |
+
+## How to extend
+
+1. Append a new `notes/*-remainderN.md` (or a dated section) for the new window.  
+2. Update **`TIMELINE.md`** row(s) and **`notes/INDEX.md`**.  
+3. Add 3–8 useful shots to **`shots/INDEX.md`** for that segment (don’t dump every PNG).  
+4. If lessons are durable, add a bullet to **`TAKEAWAYS.md`** with a citation.  
+5. Lightly refresh README coverage status if Day state changes.  
+6. `git add` → commit with a clear message → `git push origin main`.
+
+## Known gaps
+
+| Gap | Detail |
+|-----|--------|
+| Morning → ~3:08 PM ET | No primary stream capture; TLDR/schedule only. Replay backfill pending. |
+| Q&A | Visual scenes only; no readable captions → no Q&A substance. |
+| Full audio transcript | HLS / signed-URL capture blocked by Auto-review; notes are visual + teachable-point synthesis, not verbatim audio. |
+| Speaker IDs | Lower-thirds often missing (esp. PM); don’t invent names beyond what’s on slides/OCR notes. |
+
+## Safety
+
+Public repo: never commit secrets, tokens, `.env`, private keys, or internal IPs. See README safety blurb.
