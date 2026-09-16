@@ -59,6 +59,8 @@
 
 | 5:45:33–6:05:33 | ~5:18–5:38 | Cupcake Remotion ads build → Shardul Marathe → rocket/QR → product deck reprise | `live-dvr` | [remainder20](notes/day2/remainder20.md) | `d2_0555_cupcake-three-card-fan.png`, `d2_0557_shardul-marathe-profile.png`, `d2_0605_why-grok-bot-end.png` |
 
-Capture continuing from player **6:05:33**.
+| 6:05:33–6:22:57 | ~5:38–5:55 | **SDR** session: use cases → Meet the team → Army Huddle FlyLo prospecting (25 leads, draft-only) | `live-dvr` | [remainder21](notes/day2/remainder21.md) | `d2_0606_sdr-use-cases.png`, `d2_0611_meet-the-team.png`, `d2_0616_army-huddle-prospecting.png` |
+
+Capture continuing from player **6:22:57**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)

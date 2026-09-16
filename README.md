@@ -67,7 +67,9 @@ Then the org chart grows Remotion Ads and they actually install the plugin — C
 
 Remotion then actually builds the Cupcake motion ad — seed-42 showcase bots, accidental Tailwind, localhost:3000 refusing to connect, then a tidy three-card fan. Guest card flash for Shardul Marathe (Stanford / SAIL / SpaceX campus ambassador energy), a rocket with a QR code, and the product slides return like the encore nobody asked for.
 
-Capture is past ~6:05 player time and climbing. Day 3 can wait in the hallway.
+Then Sales finally gets its hour: SDR use cases, a bot roster led by Simon Bot and Shakespeare, and an Army Huddle that somehow produces 25 Director+ FlyLo prospects with draft-only Gmail and a 170-row “please review, do not send” queue. Cold outreach, but make it a committee.
+
+Capture is past ~6:22 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 
