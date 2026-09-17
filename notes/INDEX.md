@@ -58,3 +58,9 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder27.md](day2/remainder27.md) | 7:43–8:01 | Support refunds + Plain Marketplace |
 | [day2/remainder28.md](day2/remainder28.md) | 8:01–8:18 | Cupcake roster audit |
 | [day2/remainder29.md](day2/remainder29.md) | 8:18–8:23 | Promo QR + Day 2 end card |
+
+## Day 3 (Sept 17)
+
+| File | Window | Summary |
+|------|--------|----------|
+| [day3/remainder1.md](day3/remainder1.md) | 0:00–20:00 | Cold open, Bake demo, Cupcake round 1 |
