@@ -79,7 +79,9 @@ Support finally arrives — answer tickets, pre-investigate, alert, internal ans
 
 Support connects Plain, then walks refunds with a human in the loop: Carter gets the day-0 $20 back, Damon gets a polite no (20 days out), Elena waits on a missing Pass Sharing FAQ. Policy bots with adult supervision.
 
-Capture is past ~8:01 player time and climbing. Day 3 can wait in the hallway.
+dr eggbot audits the Cupcake roster and says the quiet part: you’re not under-botted, you’re coordination-bound — merge still waits on a human, and Lauren is the interrupt bus. Then someone tries “Create a new bot” and gets `invalid_body`. Perfect.
+
+Capture is past ~8:18 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

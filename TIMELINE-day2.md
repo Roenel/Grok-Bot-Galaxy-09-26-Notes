@@ -71,6 +71,8 @@
 
 | 7:43:18–8:01:51 | ~7:16–7:34 | Support: Plain Marketplace + refund approval (Carter/Damon/Elena) | `live-dvr` | [remainder27](notes/day2/remainder27.md) | `d2_1943_marketplace.png`, `d2_1952_reply-approval.png` |
 
-Capture continuing from player **8:01:51**.
+| 8:01:51–8:18:59 | ~7:34–7:51 | dr eggbot Cupcake roster audit + bottlenecks; Create-a-bot modal | `live-dvr` | [remainder28](notes/day2/remainder28.md) | `d2_0817_slack-roster.png`, `d2_0818_cupcake-create-bot.png` |
+
+Capture continuing from player **8:18:59**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
