@@ -72,3 +72,6 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder7.md](day3/remainder7.md) | 1:42–1:58 | Leaderboard + Arena QR |
 | [day3/remainder8.md](day3/remainder8.md) | 1:58–2:14 | Cupcake KPIs |
 | [day3/remainder9.md](day3/remainder9.md) | 2:14–2:30 | Feedback + crumb/WAF |
+| [day3/remainder10.md](day3/remainder10.md) | 2:30:25–2:46:45 | Slack/WAF hold, presenter, BRB, Thursday Arena promo |
+| [day3/remainder11.md](day3/remainder11.md) | 2:46:45–3:02:07 | Thursday Arena, leaderboard/shop/team/win, funnel snapshot |
+| [day3/remainder12.md](day3/remainder12.md) | 3:02:07–3:17:32 | Funnel snapshot, marketing sheet, presenters, BRB |

@@ -40,7 +40,10 @@
 | 1:42:37–1:58:49 | ~1:20–1:36 | Leaderboard + Arena QR | `live-dvr` | [remainder7](notes/day3/remainder7.md) | `d3_1652_global-leaderboard.png` |
 | 1:58:49–2:14:40 | ~1:36–1:52 | Cupcake KPIs (41.8% WR) | `live-dvr` | [remainder8](notes/day3/remainder8.md) | `d3_1622_cupcake_kpis.png` |
 | 2:14:40–2:30:25 | ~1:52–2:08 | Feedback chart + Cupcake phone + crumb/WAF hold | `live-dvr` | [remainder9](notes/day3/remainder9.md) | `d3_1643_feedback-chart.png`, `d3_1654_crumb-chat.png` |
+| 2:30:25–2:46:45 | ~2:08–2:24 | Slack/WAF hold → presenter → BRB → Thursday Arena promo | `live-dvr` | [remainder10](notes/day3/remainder10.md) | `d3_1655_steve-slack-waf-edge.png`, `d3_1710_thursday-arena-promo.png` |
+| 2:46:45–3:02:07 | ~2:24–2:40 | Thursday Arena → leaderboard/shop/team/win → funnel snapshot | `live-dvr` | [remainder11](notes/day3/remainder11.md) | `d3_1425_global-leaderboard.png`, `d3_1440_funnel-snapshot.png` |
+| 3:02:07–3:17:32 | ~2:40–2:55 | Funnel snapshot → marketing sheet → presenters → BRB | `live-dvr` | [remainder12](notes/day3/remainder12.md) | `d3_1735_marketing-sheet.png`, `d3_1747_paused-grok-bot-galaxy.png` |
 
-Capture continuing from player **2:30:25**.
+Capture continuing from player **3:17:32**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
