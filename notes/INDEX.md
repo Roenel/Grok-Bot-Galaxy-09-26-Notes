@@ -65,3 +65,5 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 |------|--------|----------|
 | [day3/remainder1.md](day3/remainder1.md) | 0:00–20:00 | Cold open, Bake demo, Cupcake round 1 |
 | [day3/remainder2.md](day3/remainder2.md) | 20:00–38:47 | Cupcake + RevOps/MarOps Meet the team |
+| [day3/remainder3.md](day3/remainder3.md) | 38:47–54:10 | Lead Deck demos + What we learned |
+| [day3/remainder4.md](day3/remainder4.md) | 54:10–1:09:59 | Q&A + Starbase promo |

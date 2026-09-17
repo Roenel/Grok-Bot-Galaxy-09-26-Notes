@@ -1,0 +1,16 @@
+# Day 3 remainder 4
+
+- Start: player 54:10, paused on “What we learned” slide (RevOps/MarOps session); unmuted, LIVE+DVR, no CC.
+- Capture started from 54:10; playback resumed.
+
+- 56:20 — Full-screen speaker on stage; no presentation text visible. Visible player text: “Grok Bot · LIVE”, 56:20 / 3:51:02. Chat text visible includes “reset”, “Demand & supply”, and “new person! Just got blue checkmark”.
+- 58:34 — Speaker gesturing on stage; background graphic, no readable slide text. Player text: “Grok Bot · LIVE”, 58:34 / 3:53:14. Visible chat text includes “Demand & supply”, “Reset”, “new person! Just got blue checkmark”, “I’ll rate shave whatever. electricity, water, tokens”, “Want to N.A. a”, “Want to be a part of it”, “Grok4.7?”, and “Please otherwise I need to wait another 5 days”. No promo/QR visible.
+- 1:00:50 — Wide stage shot; projected slide reads “Questions?”; side screens read “Grok Bot”. Player text: “Grok Bot · LIVE”, 1:00:50 / 3:55:29. Visible chat includes “Life changing”, “Is grok not able to do all of this without prompting the next decision”, “Where are we at? Are we billionaires yet??”, and “I won’t”. No promo/QR visible.
+- 1:03:03 — Close shot of speaker against blue background; no readable presentation text. Player text: “Grok Bot · LIVE”, 1:03:03 / 3:57:41. Visible chat includes “We are watching my Grok “Diamond” and me from our computers together :)”, “Life changing”, “Is grok not able to do all of this without prompting the next decision”, “Any chance the 3 day live stream has been recorded? If so, I would appreciate being able to watch. Thank you!”, and “ICF for designing the ideal customer bruh smile and wave boys lol”. No promo/QR visible.
+- 1:05:18 — Speaker centered, smiling, blue/white background graphic; no readable presentation text. Player text: “Grok Bot · LIVE”, 1:05:18 / 3:59:55. Visible chat includes “ICF for designing the ideal customer bruh smile and wave boys lol”, “smile and wave...”, “I’m building out a great team to help write a novel.”, “Android is better for when you drop phone”, “I’m on an android 😁”, and “Screen sharing this on the tv is a game changer! 🤣”. No promo/QR visible.
+- 1:07:32 — Speaker centered against blue/white background graphic; no readable presentation text. Player text: “Grok Bot · LIVE”, 1:07:32 / 4:02:14. Visible chat includes “I’m on an android”, “Screen sharing this on the tv is a game changer! 🤣”, “Why is that not specific to Grok?”, “Android for when you want to actually work on a phone.”, “still 100% usage”, and “Think big how big ???”. No promo/QR visible.
+- 1:09:59 — PAUSED, unmuted. Final visual is a purple promotional slide with a QR code. **PROMO/QR — DO NOT CLAIM:** “You could win a trip to Starbase” / “Show us how you’ve integrated Grok Bot into your work” / “1. Quote our challenge post on X” / “2. Explain what your Bot does” / “3. Include a link to your shared Bot template” / “4. Follow @Grok & @Bot”. Player text: “Grok Bot · LIVE”, 1:09:59 / 4:04:41. No CC visible.
+
+## Range / status
+- Captured player time: 54:10–1:09:59 (15:49), starting from the supplied 54:10 position; did not jump to live.
+- Last visual: the Starbase promo/QR slide above. Playback is paused at the end, unmuted, and the X tab remains open.
