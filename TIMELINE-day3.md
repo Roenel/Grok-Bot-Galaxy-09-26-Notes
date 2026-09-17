@@ -34,6 +34,9 @@
 | 38:47–54:10 | ~12:16–12:32 | RevOps demos: Fisher/OP-1/Juno Lead Deck → What we learned | `live-dvr` | [remainder3](notes/day3/remainder3.md) | `d3_1517_lead-card-sofia.png`, `d3_1520_what-we-learned.png` |
 | 54:10–1:09:59 | ~12:32–12:47 | Q&A / speaker → Starbase promo QR | `live-dvr` | [remainder4](notes/day3/remainder4.md) | `d3_10050_questions.png`, `d3_10959_starbase-promo-qr.png` |
 
-Capture continuing from player **1:09:59**.
+| 1:09:59–1:24:59 | ~12:47–1:02 | Starbase promo → BRB → panel return | `live-dvr` | [remainder5](notes/day3/remainder5.md) | `d3_12459_panel-end.png` |
+| 1:24:59–1:42:37 | ~1:02–1:20 | Launch Checklist → Cupcake practice (You took round 1) | `live-dvr` | [remainder6](notes/day3/remainder6.md) | `d3_1555_launch-checklist.png`, `d3_1602_end-you-took-round1.png` |
+
+Capture continuing from player **1:42:37**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)

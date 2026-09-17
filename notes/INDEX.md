@@ -67,3 +67,5 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder2.md](day3/remainder2.md) | 20:00–38:47 | Cupcake + RevOps/MarOps Meet the team |
 | [day3/remainder3.md](day3/remainder3.md) | 38:47–54:10 | Lead Deck demos + What we learned |
 | [day3/remainder4.md](day3/remainder4.md) | 54:10–1:09:59 | Q&A + Starbase promo |
+| [day3/remainder5.md](day3/remainder5.md) | 1:09–1:24 | Starbase promo + BRB + panel |
+| [day3/remainder6.md](day3/remainder6.md) | 1:24–1:42 | Launch Checklist + Cupcake R1 |
