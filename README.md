@@ -77,7 +77,9 @@ They play an actual Cupcake Round 3 (@potato somehow Diamond), ping Lauren+Matt 
 
 Support finally arrives — answer tickets, pre-investigate, alert, internal answers, improve the system — with a four-bot squad (Build / Reply / Alert / Tune). They also pitch a free month of Grok Bot if you clone dr eggbot, first thousand only. Capitalism, but make it a livestream.
 
-Capture is past ~7:39 player time and climbing. Day 3 can wait in the hallway.
+Support connects Plain, then walks refunds with a human in the loop: Carter gets the day-0 $20 back, Damon gets a polite no (20 days out), Elena waits on a missing Pass Sharing FAQ. Policy bots with adult supervision.
+
+Capture is past ~8:01 player time and climbing. Day 3 can wait in the hallway.
 
 ---
 

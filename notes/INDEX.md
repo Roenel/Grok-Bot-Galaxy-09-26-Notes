@@ -55,3 +55,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder23.md](day2/remainder23.md) | 6:43–7:04 | Cupcake eng bots + in-game ads |
 | [day2/remainder24.md](day2/remainder24.md) | 7:04–7:21 | Round 3 + mechanics SoT |
 | [day2/remainder25.md](day2/remainder25.md) | 7:21–7:39 | Customer Support session |
+| [day2/remainder27.md](day2/remainder27.md) | 7:43–8:01 | Support refunds + Plain Marketplace |

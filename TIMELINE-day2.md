@@ -69,6 +69,8 @@
 
 | 7:21:03–7:39:51 | ~6:54–7:12 | **Customer Support** session: use cases + Meet the team; free Grok Bot/dr eggbot promo | `live-dvr` | [remainder25](notes/day2/remainder25.md) | `d2_1930_free-grok-bot.png`, `d2_1939_meet-the-team.png` |
 
-Capture continuing from player **7:39:51**.
+| 7:43:18–8:01:51 | ~7:16–7:34 | Support: Plain Marketplace + refund approval (Carter/Damon/Elena) | `live-dvr` | [remainder27](notes/day2/remainder27.md) | `d2_1943_marketplace.png`, `d2_1952_reply-approval.png` |
+
+Capture continuing from player **8:01:51**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
