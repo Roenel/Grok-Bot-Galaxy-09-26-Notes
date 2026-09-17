@@ -75,3 +75,6 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder10.md](day3/remainder10.md) | 2:30:25–2:46:45 | Slack/WAF hold, presenter, BRB, Thursday Arena promo |
 | [day3/remainder11.md](day3/remainder11.md) | 2:46:45–3:02:07 | Thursday Arena, leaderboard/shop/team/win, funnel snapshot |
 | [day3/remainder12.md](day3/remainder12.md) | 3:02:07–3:17:32 | Funnel snapshot, marketing sheet, presenters, BRB |
+| [day3/remainder13.md](day3/remainder13.md) | 3:17:32–3:36:39 | BRB, Thursday Arena, marketing operations, Cerebro |
+| [day3/remainder14.md](day3/remainder14.md) | 3:36:39–3:55:07 | Cerebro marketing operations, Data, Clay connector |
+| [day3/remainder15.md](day3/remainder15.md) | 3:55:07–~4:12:15 | Stage agenda, Why Grok Bot, post-sales, Thursday Arena, title card |

@@ -44,6 +44,10 @@
 | 2:46:45–3:02:07 | ~2:24–2:40 | Thursday Arena → leaderboard/shop/team/win → funnel snapshot | `live-dvr` | [remainder11](notes/day3/remainder11.md) | `d3_1425_global-leaderboard.png`, `d3_1440_funnel-snapshot.png` |
 | 3:02:07–3:17:32 | ~2:40–2:55 | Funnel snapshot → marketing sheet → presenters → BRB | `live-dvr` | [remainder12](notes/day3/remainder12.md) | `d3_1735_marketing-sheet.png`, `d3_1747_paused-grok-bot-galaxy.png` |
 
-Capture continuing from player **3:17:32**.
+|| 3:17:32–3:36:39 | ~2:55–3:14 | BRB then Thursday Arena / marketing ops / Cerebro | `live-dvr` | [remainder13](notes/day3/remainder13.md) | `d3_0322_thursday_arena_resume.png`, `d3_0331_marketing_operations_demo.png`, `d3_0336_cerebro_chat_final.png` |
+|| 3:36:39–3:55:07 | ~3:14–3:33 | Cerebro marketing ops / Data / Clay connector | `live-dvr` | [remainder14](notes/day3/remainder14.md) | `d3_0339_cerebro_marketing-operations.png`, `d3_0348_cerebro_data-analysis.png`, `d3_0355_cerebro_clay_prompt.png` |
+|| 3:55:07–~4:12:15 | ~3:33–3:50 | Stage agenda, Why Grok Bot, post-sales, Thursday Arena → title card | `live-dvr` | [remainder15](notes/day3/remainder15.md) | `d3_0357_what_we_learned_qa.png`, `d3_0359_why_grok_bot_tiles.png`, `d3_0412_grok_bot_galaxy_paused.png` |
+
+Capture continuing from player **~4:12:15**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
