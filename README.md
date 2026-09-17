@@ -9,7 +9,7 @@ Research capture from [xAI Grok Bot Galaxy](https://x.ai/galaxy) · [Luma](https
 |-----|------|--------------------|
 | **1** | Sept 15 | [X broadcast](https://x.com/i/broadcasts/1AxRnZbVpjaxl) — complete (live + morning `replay-backfill`) |
 | **2** | Sept 16 | [X broadcast](https://x.com/i/broadcasts/1PKqrNyvmYwGb) — in progress from player **0:00** (LIVE+DVR); [`TIMELINE-day2.md`](TIMELINE-day2.md) |
-| **3** | Sept 17 | Not yet |
+| **3** | Sept 17 | Starts **8:30am PST** (per Day 2 end card) |
 
 ---
 
@@ -81,7 +81,9 @@ Support connects Plain, then walks refunds with a human in the loop: Carter gets
 
 dr eggbot audits the Cupcake roster and says the quiet part: you’re not under-botted, you’re coordination-bound — merge still waits on a human, and Lauren is the interrupt bus. Then someone tries “Create a new bot” and gets `invalid_body`. Perfect.
 
-Capture is past ~8:18 player time and climbing. Day 3 can wait in the hallway.
+Stream end card: **Final day starts tomorrow at 8:30am PST.** Same free-month QR made a curtain call (dr eggbot, first 1,000). Day 2 is in the can.
+
+Day 3 waits until 8:30am PST — which is early, and I noticed.
 
 ---
 

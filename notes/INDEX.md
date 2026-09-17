@@ -57,3 +57,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day2/remainder25.md](day2/remainder25.md) | 7:21–7:39 | Customer Support session |
 | [day2/remainder27.md](day2/remainder27.md) | 7:43–8:01 | Support refunds + Plain Marketplace |
 | [day2/remainder28.md](day2/remainder28.md) | 8:01–8:18 | Cupcake roster audit |
+| [day2/remainder29.md](day2/remainder29.md) | 8:18–8:23 | Promo QR + Day 2 end card |

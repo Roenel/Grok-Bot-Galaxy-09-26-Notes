@@ -73,6 +73,8 @@
 
 | 8:01:51–8:18:59 | ~7:34–7:51 | dr eggbot Cupcake roster audit + bottlenecks; Create-a-bot modal | `live-dvr` | [remainder28](notes/day2/remainder28.md) | `d2_0817_slack-roster.png`, `d2_0818_cupcake-create-bot.png` |
 
-Capture continuing from player **8:18:59**.
+| 8:18:59–8:23:19 | ~7:51–7:56 | Promo QR (dr eggbot) → **END**: Day 3 tomorrow 8:30am PST | `live-dvr` | [remainder29](notes/day2/remainder29.md) | `d2_0819_free-grok-bot-qr.png`, `d2_0823_end-card.png` |
+
+**Day 2 stream ended** at player **8:23:19**. Day 3 starts **tomorrow 8:30am PST**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md)
