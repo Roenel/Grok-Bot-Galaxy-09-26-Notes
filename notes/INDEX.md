@@ -78,3 +78,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder13.md](day3/remainder13.md) | 3:17:32–3:36:39 | BRB, Thursday Arena, marketing operations, Cerebro |
 | [day3/remainder14.md](day3/remainder14.md) | 3:36:39–3:55:07 | Cerebro marketing operations, Data, Clay connector |
 | [day3/remainder15.md](day3/remainder15.md) | 3:55:07–~4:12:15 | Stage agenda, Why Grok Bot, post-sales, Thursday Arena, title card |
+| [day3/remainder16.md](day3/remainder16.md) | 4:12:15–4:31:55 | Dream Team UI, What we learned, Questions? |

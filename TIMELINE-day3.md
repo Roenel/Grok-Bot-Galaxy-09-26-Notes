@@ -48,6 +48,8 @@
 || 3:36:39–3:55:07 | ~3:14–3:33 | Cerebro marketing ops / Data / Clay connector | `live-dvr` | [remainder14](notes/day3/remainder14.md) | `d3_0339_cerebro_marketing-operations.png`, `d3_0348_cerebro_data-analysis.png`, `d3_0355_cerebro_clay_prompt.png` |
 || 3:55:07–~4:12:15 | ~3:33–3:50 | Stage agenda, Why Grok Bot, post-sales, Thursday Arena → title card | `live-dvr` | [remainder15](notes/day3/remainder15.md) | `d3_0357_what_we_learned_qa.png`, `d3_0359_why_grok_bot_tiles.png`, `d3_0412_grok_bot_galaxy_paused.png` |
 
-Capture continuing from player **~4:12:15**.
+| 4:12:15–4:31:55 | Dream Team UI / What we learned / Questions? | `live-dvr` | [remainder16](notes/day3/remainder16.md) | `d3_0426_what-we-learned.png`, `d3_0429_questions-stage.png` |
+
+Continuing pointer → **4:31:55**
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
