@@ -64,3 +64,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | File | Window | Summary |
 |------|--------|----------|
 | [day3/remainder1.md](day3/remainder1.md) | 0:00–20:00 | Cold open, Bake demo, Cupcake round 1 |
+| [day3/remainder2.md](day3/remainder2.md) | 20:00–38:47 | Cupcake + RevOps/MarOps Meet the team |

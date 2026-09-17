@@ -27,6 +27,10 @@
 
 **Promo flagged (not claimed):** Starbase trip challenge — quote challenge post, explain bot, link shared template, follow @Grok & @Bot.
 
-Capture continuing from player **20:00**.
+| 20:00–38:47 | ~11:58–12:16 | Cupcake R2/WIN → BRB → RevOps/MarOps use cases → Meet the team (OP-1/Fisher/Juno/Ondes) | `live-dvr` | [remainder2](notes/day3/remainder2.md) | `d3_3543_revops-marops-use-cases.png`, `d3_3847_meet-the-team-end.png` |
+
+**Promo:** “New users: one month free of Grok Bot” (no QR).
+
+Capture continuing from player **38:47**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
