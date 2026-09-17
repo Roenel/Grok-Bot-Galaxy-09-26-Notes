@@ -37,6 +37,10 @@
 | 1:09:59–1:24:59 | ~12:47–1:02 | Starbase promo → BRB → panel return | `live-dvr` | [remainder5](notes/day3/remainder5.md) | `d3_12459_panel-end.png` |
 | 1:24:59–1:42:37 | ~1:02–1:20 | Launch Checklist → Cupcake practice (You took round 1) | `live-dvr` | [remainder6](notes/day3/remainder6.md) | `d3_1555_launch-checklist.png`, `d3_1602_end-you-took-round1.png` |
 
-Capture continuing from player **1:42:37**.
+| 1:42:37–1:58:49 | ~1:20–1:36 | Leaderboard + Arena QR | `live-dvr` | [remainder7](notes/day3/remainder7.md) | `d3_1652_global-leaderboard.png` |
+| 1:58:49–2:14:40 | ~1:36–1:52 | Cupcake KPIs (41.8% WR) | `live-dvr` | [remainder8](notes/day3/remainder8.md) | `d3_1622_cupcake_kpis.png` |
+| 2:14:40–2:30:25 | ~1:52–2:08 | Feedback chart + Cupcake phone + crumb/WAF hold | `live-dvr` | [remainder9](notes/day3/remainder9.md) | `d3_1643_feedback-chart.png`, `d3_1654_crumb-chat.png` |
+
+Capture continuing from player **2:30:25**.
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)

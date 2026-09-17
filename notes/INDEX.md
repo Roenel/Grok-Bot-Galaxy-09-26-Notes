@@ -69,3 +69,6 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder4.md](day3/remainder4.md) | 54:10–1:09:59 | Q&A + Starbase promo |
 | [day3/remainder5.md](day3/remainder5.md) | 1:09–1:24 | Starbase promo + BRB + panel |
 | [day3/remainder6.md](day3/remainder6.md) | 1:24–1:42 | Launch Checklist + Cupcake R1 |
+| [day3/remainder7.md](day3/remainder7.md) | 1:42–1:58 | Leaderboard + Arena QR |
+| [day3/remainder8.md](day3/remainder8.md) | 1:58–2:14 | Cupcake KPIs |
+| [day3/remainder9.md](day3/remainder9.md) | 2:14–2:30 | Feedback + crumb/WAF |
