@@ -52,6 +52,8 @@
 | 04:31:55–04:51:37 | Questions? Q&A → Grok Bot Galaxy BRB | `live-dvr` | [remainder17](notes/day3/remainder17.md) | `d3_0439_questions_wide.png`, `d3_0448_grok_galaxy_be_right_back.png` |
 | 04:51:37–05:09:22 | BRB → Cupcake metrics, Cerebro, Thursday Arena match | `live-dvr` | [remainder18](notes/day3/remainder18.md) | `d3_0454_cupcake-launch-chart.png`, `d3_0505_win-screen.png` |
 
-Continuing pointer → **05:09:22**
+| 05:09:22–05:25:43 | ~4:47–5:04 | Voice agents CTA, studio panel, Thursday Arena, Pokemon cards CSS, global leaderboard | `live-dvr` | [remainder19](notes/day3/remainder19.md) | `d3_0512_voice-agents.png`, `d3_0515_studio-panel.png`, `d3_0519_thursday-arena.png`, `d3_0522_pokemon-cards.png`, `d3_0525_global-leaderboard.png` |
+
+Continuing pointer → **05:25:43**
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)

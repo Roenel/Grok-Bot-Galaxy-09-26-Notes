@@ -81,3 +81,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder16.md](day3/remainder16.md) | 4:12:15–4:31:55 | Dream Team UI, What we learned, Questions? |
 | [day3/remainder17.md](day3/remainder17.md) | 4:31:55–4:51:37 | Questions? Q&A, then Grok Bot Galaxy BRB |
 | [day3/remainder18.md](day3/remainder18.md) | 4:51:37–5:09:22 | BRB, Cupcake metrics, Cerebro, Thursday Arena match, sponsor/bake shots |
+| [day3/remainder19.md](day3/remainder19.md) | 5:09:22–5:25:43 | Voice agents CTA, studio panel, Thursday Arena, Pokemon cards CSS, global leaderboard |
