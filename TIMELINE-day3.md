@@ -49,7 +49,8 @@
 || 3:55:07–~4:12:15 | ~3:33–3:50 | Stage agenda, Why Grok Bot, post-sales, Thursday Arena → title card | `live-dvr` | [remainder15](notes/day3/remainder15.md) | `d3_0357_what_we_learned_qa.png`, `d3_0359_why_grok_bot_tiles.png`, `d3_0412_grok_bot_galaxy_paused.png` |
 
 | 4:12:15–4:31:55 | Dream Team UI / What we learned / Questions? | `live-dvr` | [remainder16](notes/day3/remainder16.md) | `d3_0426_what-we-learned.png`, `d3_0429_questions-stage.png` |
+| 04:31:55–04:51:37 | Questions? Q&A → Grok Bot Galaxy BRB | `live-dvr` | [remainder17](notes/day3/remainder17.md) | `d3_0439_questions_wide.png`, `d3_0448_grok_galaxy_be_right_back.png` |
 
-Continuing pointer → **4:31:55**
+Continuing pointer → **04:51:37**
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
