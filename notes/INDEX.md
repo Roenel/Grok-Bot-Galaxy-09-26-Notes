@@ -85,3 +85,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 || [day3/remainder20.md](day3/remainder20.md) | 5:25:43–5:44:57 | Thursday Arena continuation → menu |
 || [day3/remainder21.md](day3/remainder21.md) | 5:44:57–6:06:34 | Arena play, studio panel, Introducing Grok Bot, marketing campaign slides |
 | [day3/remainder22.md](day3/remainder22.md) | 6:06:34–6:25:06 | Marketing campaign continuation → Project Manager pane |
+| [day3/remainder23.md](day3/remainder23.md) | 6:25:06–6:41:53 | Project Manager → What we learned (QR→marketplace) → Questions |
