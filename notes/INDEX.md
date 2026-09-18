@@ -86,3 +86,6 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 || [day3/remainder21.md](day3/remainder21.md) | 5:44:57–6:06:34 | Arena play, studio panel, Introducing Grok Bot, marketing campaign slides |
 | [day3/remainder22.md](day3/remainder22.md) | 6:06:34–6:25:06 | Marketing campaign continuation → Project Manager pane |
 | [day3/remainder23.md](day3/remainder23.md) | 6:25:06–6:41:53 | Project Manager → What we learned (QR→marketplace) → Questions |
+| [day3/remainder24.md](day3/remainder24.md) | 6:41:53–6:57:37 | Traffic/leaderboard/Bake |
+| [day3/remainder25.md](day3/remainder25.md) | 6:57:37–7:17:30 | Projects Manager, Thursday Arena, sponsor form |
+| [day3/remainder26.md](day3/remainder26.md) | 7:17:30–7:37:41 | Grok Bot Credits promo flag (verbatim only), Slack visuals, Thursday Arena rules |

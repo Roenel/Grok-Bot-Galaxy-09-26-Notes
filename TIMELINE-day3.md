@@ -58,7 +58,10 @@
 | 06:06:34–06:25:06 | ~5:45–6:04 | marketing campaign continuation → Project Manager pane | `live-dvr` | [remainder22](notes/day3/remainder22.md) | `d3_0607_meet-the-team.png`, `d3_0625_paused-project-manager.png` |
 
 | 06:25:06–06:41:53 | ~6:04–6:21 | Project Manager → What we learned (QR→marketplace) → Questions | `live-dvr` | [remainder23](notes/day3/remainder23.md) | `d3_0629_what-we-learned-qr.png` |
+| 06:41:53–06:57:37 | ~6:21–6:37 | traffic/leaderboard/bake | `live-dvr` | [remainder24](notes/day3/remainder24.md) | `d3_0646_traffic-graph.png`, `d3_0652_leaderboard.png`, `d3_0657_github-checks.png`, `d3_0657_bake-chat.png` |
+| 06:57:37–07:17:30 | ~6:37–6:57 | Projects Manager, Arena, sponsor form | `live-dvr` | [remainder25](notes/day3/remainder25.md) | `d3_0700_projects-manager.png`, `d3_0710_thursday-arena.png`, `d3_0717_paused.png` |
+| 07:17:30–07:37:41 | ~6:57–7:17 | Grok Bot Credits slate (flag only), Slack, Arena rules | `live-dvr` | [remainder26](notes/day3/remainder26.md) | `d3_0730_grok-bot-credits-chat.png`, `d3_0734_slack-visuals.png`, `d3_0737_rules-thursday-arena.png` |
 
-Continuing → **06:41:53**
+Continuing → **07:37:41** (~20m DVR left)
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
