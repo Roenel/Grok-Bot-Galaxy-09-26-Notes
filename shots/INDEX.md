@@ -117,3 +117,12 @@ See `shots/day2/`. Highlights: `d2_0000_cold-open.png`, `d2_1500_templates-slide
 | `d3_0607_meet-the-team.png` | Six-role marketing team slide |
 | `d3_0624_scorecard-strategy-assets.png` | Campaign scorecard and strategy/assets view |
 | `d3_0625_paused-project-manager.png` | Project Manager pane at the continuation pointer |
+
+## Day 3 — remainder27 closeout (`live-dvr`)
+
+| File | Why |
+|------|-----|
+| `d3_1937_three-panel-rules.png` | Rules/diagram and Slack handoff at the resumed DVR point |
+| `d3_1950_cupcake-kpi-chart.png` | Cupcake launch headline KPI chart |
+| `d3_1952_ship-by-thursday-roadmap.png` | Ship-by-Thursday roadmap / MVP factory whiteboard |
+| `d3_1958_end-card-grok-bot-galaxy.png` | Final end card; Day 3 capture boundary |

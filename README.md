@@ -9,7 +9,7 @@ Research capture from [xAI Grok Bot Galaxy](https://x.ai/galaxy) · [Luma](https
 |-----|------|--------------------|
 | **1** | Sept 15 | [X broadcast](https://x.com/i/broadcasts/1AxRnZbVpjaxl) — complete (live + morning `replay-backfill`) |
 | **2** | Sept 16 | [X broadcast](https://x.com/i/broadcasts/1PKqrNyvmYwGb) — in progress from player **0:00** (LIVE+DVR); [`TIMELINE-day2.md`](TIMELINE-day2.md) |
-| **3** | Sept 17 | [X broadcast](https://x.com/i/broadcasts/1YGNrbXEeazGw) — captured through player **3:17:32**; [`TIMELINE-day3.md`](TIMELINE-day3.md) |
+| **3** | Sept 17 | [X broadcast](https://x.com/i/broadcasts/1YGNrbXEeazGw) — **complete through player 07:58:23 (end card)**; [`TIMELINE-day3.md`](TIMELINE-day3.md) |
 
 ---
 

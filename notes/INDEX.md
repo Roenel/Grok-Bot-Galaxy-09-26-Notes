@@ -89,3 +89,4 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder24.md](day3/remainder24.md) | 6:41:53–6:57:37 | Traffic/leaderboard/Bake |
 | [day3/remainder25.md](day3/remainder25.md) | 6:57:37–7:17:30 | Projects Manager, Thursday Arena, sponsor form |
 | [day3/remainder26.md](day3/remainder26.md) | 7:17:30–7:37:41 | Grok Bot Credits promo flag (verbatim only), Slack visuals, Thursday Arena rules |
+| [day3/remainder27.md](day3/remainder27.md) | 7:37:41–7:58:23 | Arena/rules, Cupcake KPIs, Ship-by-Thursday roadmap, ad-bid form, end card; capture complete |

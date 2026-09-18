@@ -1,0 +1,30 @@
+# Day 3 DVR remainder (07:37:41–07:58:23)
+
+- Broadcast: `https://x.com/i/broadcasts/1YGNrbXEeazGw`
+- Resumed at the requested DVR position, **07:37:41 / 07:58:23**, not live. Playback was unmuted throughout (`muted=false`).
+- The source duration reported by the HTML5 player was about `28702.94 s` (07:58:22.94). Playback reached the final seconds and showed the end card; after completion X reset the player to 00:00 paused, unmuted (`paused=true`, `muted=false`). At the instant just before reset, it was at ~07:58:19 with the end card. No QR code was visible.
+
+## Dense timeline
+
+- **07:37:41–07:38:30 — rules/diagram / Slack handoff.** Resumed on the three-panel drawing: Day 1/Day 2/Day 3 progression with a simple house/people sketch, a rounded “bots fight”/arena-like middle panel, and an upward-trending chart in the third panel. It then cut into a Slack-style workspace (`#grind`) showing the team’s bot/workflow discussion and an embedded drawing.
+- **07:39:27 — Thursday Arena UI.** Arena home screen showed `THURSDAY ARENA`, a player card for `@poteto`, `PLAY`, and the billboard auction area. Promo text visible verbatim: **“NEXT WEEK’S BILLBOARD — ONE AD SLOT, OPEN AUCTION”**, **“Starts at $1”**, and **“BUY AN AD — FROM $1”**. Also visible: Leaderboard, Past matches, Bots, Rules, Send feedback. This is on-screen promo/UI text only; not a claim.
+- **07:39:31 — Global leaderboard.** Leaderboard view with ranked player cards/usernames and scores; no QR/promo card observed.
+- **07:40:03–07:40:15 — card collection / Tinkabot.** A grid of illustrated bot cards appeared, followed by a close card labeled `TINKABOT`, `RARE`, `by Lauren Tan`, `FIRST SEAT`. Card text visible: **“Start: move to the front”** and **“Smallest scaled footprints — it still jumps to slot 0.”**
+- **07:40:44–07:44:06 — Slack `#steve`.** A Slack screen held for several minutes around an embedded three-panel drawing. The prominent message was visible as: **“want me to sign in and grab a share link, or keep iterating the drawings? beard’s up — no stickers, three comic panels: pop-up os → pivot cupcake → ship live, plus the workflow→bots+counter rhythm. (anonymous trainer (needs sign-in to share). screenshot:”** The right-side routine panel showed `steve’s screen` and `Cupcake board snap` paused. This is a work-in-progress UI/message, not an external claim.
+- **07:44:42–07:46:39 — studio discussion.** Cut back to the four-person Grok Bot Galaxy table, then a two-person close-up (two men at laptops). Conversation continued; no distinct promo or QR was visible.
+- **07:48:01–07:49:56 — two-person side shot.** Close-up of the woman with glasses and the man in a tan shirt at laptops; bottles/cans on the table. The man briefly handled a drink can/bottle. No QR visible.
+- **07:50:37 — KPI chart.** Dark chart titled **“Cupcake launch — headline KPIs — Season 1 — 4:15pm PT”**. Bars visibly included approximately: Practice sessions `4,884`; a second practice-related metric `378`; 2 players `1,902`; map matches `1,794`; public matches `6,546`.
+- **07:51:24 — cumulative users chart.** Dark line chart titled **“Total X users (cumulative) — now: 1,902 — 4:15pm PT”**; line rose from a low start through several plateaus to roughly 1,902.
+- **07:52:05–07:54:58 — roadmap whiteboard.** Whiteboard headed with a “Ship by Thu…”/three-day plan. `WHAT WE’RE BUILDING` showed three colored blocks for marketplace bot templates, Arena/auto-battle, and a later money/costs/stadium/replay area. `CORE LOOP (LOCKED)` was clearly legible as four stages: **Draft 3 → Lineup → Auto battle → Result / share**. Lower section `MVP FACTORY (BUGFIX LIVE)` showed boxes labeled approximately **Chief chaos → Bake Rx PR → Play test → Review/approve → Land main**, with a note about board sync/roadmap PRs. `3-DAY LIVESTREAM TIMELINE` and later `WHAT THE BUSINESS` sections were shown; the small subtext was not reliably legible at playback scale.
+- **07:56:18–07:57:07 — ad-bid form UI.** Browser form showed `Place a bid` / `Preview` with a pink sample ad, plus fields `Advertiser name`, `Tagline (0/40)`, `Logo (SVG only, up to 50KB; shown in a 240×80 box)`, file chooser, `Brand color (hex, optional …)`, `Click URL (https, optional)`, and `Bid in USD (minimum $1)`. Preview/logo content changed while the form was displayed. This is a product UI/promo surface; do not treat any sample advertiser, price, or field value as a claim. No QR code appeared.
+- **07:57:45–07:58:19 — closing studio shot and end card.** Returned to the four-person table, then transitioned to the black end card with colorful bot icons and the exact text: **“Grok Bot Galaxy”** and **“Follow @bot on X for more.”**
+
+## Chat / promo caution
+
+- Visible chat was ordinary thank-you/reaction traffic (e.g. “Thank you”, “cheers”, “following all of you”, “+++Thank you everyone, was a fun three days+++”, emojis). No chat-freebie offer was observed; any such chat content would be chat-only, not a broadcast claim.
+- Credits promo was not separately re-shown in this remainder. The Thursday Arena billboard language, ad-bid form, and end-card wording above are transcribed as on-screen promo/UI text only; **no claims made**.
+
+## Capture status
+
+- Recording **truly ended**: final black `Grok Bot Galaxy` end card was visible at the duration boundary, then X reset the player to 00:00 paused. `ended` was false only after X’s post-end reset; immediately before reset the player was at ~07:58:19 of ~07:58:23 with the end card. It did not run past the recording or hit the 25-minute safeguard.
+- New screenshots: `/workspace/galaxy-day3/shots/` with `d3_1937_three-panel-rules.png`, `d3_1938_grind-slack.png`, `d3_1939_thursday-arena-leaderboard.png`, `d3_1940_tinkabot-card.png`, `d3_1940_slack-steve-share-link.png`, `d3_1944_four-speakers-panel.png`, `d3_1946_two-speaker-closeup.png`, `d3_1948_two-speaker-side.png`, `d3_1950_cupcake-kpi-chart.png`, `d3_1951_total-users-chart.png`, `d3_1952_ship-by-thursday-roadmap.png`, `d3_1953_mvp-factory-livestream-timeline.png`, `d3_1954_what-business-whiteboard.png`, `d3_1956_ad-bid-form.png`, and `d3_1958_end-card-grok-bot-galaxy.png`.

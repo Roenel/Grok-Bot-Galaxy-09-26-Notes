@@ -16,7 +16,7 @@
 
 ---
 
-## Chronological table (so far)
+## Chronological table
 
 | Player | Approx ET | Segment | Coverage | Primary notes | Key shots |
 |--------|-----------|---------|----------|---------------|-----------|
@@ -61,7 +61,8 @@
 | 06:41:53–06:57:37 | ~6:21–6:37 | traffic/leaderboard/bake | `live-dvr` | [remainder24](notes/day3/remainder24.md) | `d3_0646_traffic-graph.png`, `d3_0652_leaderboard.png`, `d3_0657_github-checks.png`, `d3_0657_bake-chat.png` |
 | 06:57:37–07:17:30 | ~6:37–6:57 | Projects Manager, Arena, sponsor form | `live-dvr` | [remainder25](notes/day3/remainder25.md) | `d3_0700_projects-manager.png`, `d3_0710_thursday-arena.png`, `d3_0717_paused.png` |
 | 07:17:30–07:37:41 | ~6:57–7:17 | Grok Bot Credits slate (flag only), Slack, Arena rules | `live-dvr` | [remainder26](notes/day3/remainder26.md) | `d3_0730_grok-bot-credits-chat.png`, `d3_0734_slack-visuals.png`, `d3_0737_rules-thursday-arena.png` |
+| 07:37:41–07:58:23 | ~7:17–7:38 | Arena/rules, Cupcake KPIs, Ship-by-Thursday roadmap, ad-bid form, end card | `live-dvr` | [remainder27](notes/day3/remainder27.md) | key: `d3_1950_cupcake-kpi-chart.png`, `d3_1958_end-card-grok-bot-galaxy.png` |
 
-Continuing → **07:37:41** (~20m DVR left)
+Day 3 DVR capture complete through end card (07:58:23).
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
