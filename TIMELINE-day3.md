@@ -55,7 +55,8 @@
 | 05:09:22–05:25:43 | ~4:47–5:04 | Voice agents CTA, studio panel, Thursday Arena, Pokemon cards CSS, global leaderboard | `live-dvr` | [remainder19](notes/day3/remainder19.md) | `d3_0512_voice-agents.png`, `d3_0515_studio-panel.png`, `d3_0519_thursday-arena.png`, `d3_0522_pokemon-cards.png`, `d3_0525_global-leaderboard.png` |
 | 05:25:43–05:44:57 | ~5:04–5:23 | Thursday Arena continuation → menu | `live-dvr` | [remainder20](notes/day3/remainder20.md) | `d3_052543_global-leaderboard.png`, `d3_054457_thursday-arena-menu.png` |
 | 05:44:57–06:06:34 | ~5:23–5:45 | Arena play, studio panel, Introducing Grok Bot, Launching Marketing campaign | `live-dvr` | [remainder21](notes/day3/remainder21.md) | key: introducing-grok-bot / marketing-campaign slides |
+| 06:06:34–06:25:06 | ~5:45–6:04 | marketing campaign continuation → Project Manager pane | `live-dvr` | [remainder22](notes/day3/remainder22.md) | `d3_0607_meet-the-team.png`, `d3_0625_paused-project-manager.png` |
 
-Continuing pointer → **06:06:34**
+Continuing pointer → **06:25:06**
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)

@@ -108,3 +108,12 @@ Many additional eng/pm/founders frames exist (crops, duplicates, mid-demo status
 ## Day 2 curated
 
 See `shots/day2/`. Highlights: `d2_0000_cold-open.png`, `d2_1500_templates-slide.png`, `d2_2000_game-diagram-scoring.png`, `d2_3036_sales-engineers-speaker.png`, `d2_3822_sales-engineer-use-cases.png`, `d2_4913_sales-engineer-bot-ui.png`, `d2_11008_coverage-mandate.png`.
+
+## Day 3 — remainder22 (`live-dvr`)
+
+| File | Why |
+|------|-----|
+| `d3_0606_launching-marketing-campaign.png` | Marketing campaign launch slide |
+| `d3_0607_meet-the-team.png` | Six-role marketing team slide |
+| `d3_0624_scorecard-strategy-assets.png` | Campaign scorecard and strategy/assets view |
+| `d3_0625_paused-project-manager.png` | Project Manager pane at the continuation pointer |
