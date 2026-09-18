@@ -82,3 +82,5 @@ Coverage: `gap` / `tldr-only` / `live` / `replay-backfill` / `visual-only`. Spin
 | [day3/remainder17.md](day3/remainder17.md) | 4:31:55–4:51:37 | Questions? Q&A, then Grok Bot Galaxy BRB |
 | [day3/remainder18.md](day3/remainder18.md) | 4:51:37–5:09:22 | BRB, Cupcake metrics, Cerebro, Thursday Arena match, sponsor/bake shots |
 | [day3/remainder19.md](day3/remainder19.md) | 5:09:22–5:25:43 | Voice agents CTA, studio panel, Thursday Arena, Pokemon cards CSS, global leaderboard |
+|| [day3/remainder20.md](day3/remainder20.md) | 5:25:43–5:44:57 | Thursday Arena continuation → menu |
+|| [day3/remainder21.md](day3/remainder21.md) | 5:44:57–6:06:34 | Arena play, studio panel, Introducing Grok Bot, marketing campaign slides |
