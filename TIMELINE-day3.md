@@ -50,7 +50,8 @@
 
 | 4:12:15–4:31:55 | Dream Team UI / What we learned / Questions? | `live-dvr` | [remainder16](notes/day3/remainder16.md) | `d3_0426_what-we-learned.png`, `d3_0429_questions-stage.png` |
 | 04:31:55–04:51:37 | Questions? Q&A → Grok Bot Galaxy BRB | `live-dvr` | [remainder17](notes/day3/remainder17.md) | `d3_0439_questions_wide.png`, `d3_0448_grok_galaxy_be_right_back.png` |
+| 04:51:37–05:09:22 | BRB → Cupcake metrics, Cerebro, Thursday Arena match | `live-dvr` | [remainder18](notes/day3/remainder18.md) | `d3_0454_cupcake-launch-chart.png`, `d3_0505_win-screen.png` |
 
-Continuing pointer → **04:51:37**
+Continuing pointer → **05:09:22**
 
 See also: [README](README.md) · Day 1 [TIMELINE.md](TIMELINE.md) · Day 2 [TIMELINE-day2.md](TIMELINE-day2.md)
